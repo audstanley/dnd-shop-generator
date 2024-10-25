@@ -142,17 +142,21 @@ func writeYamlFile(filename string, items []WeightedItem) error {
 }
 
 func main() {
-	fmt.Println("Flags are (yaml <filename.yaml>, num <number>) or (toyaml <filename.txt>)")
-
 	// Define flags
 	var yamlFilename string
 	var numItems int
 	var textToYaml string
+	var silent bool
 
 	flag.StringVar(&yamlFilename, "yaml", "", "YAML file containing weighted items")
 	flag.IntVar(&numItems, "num", 5, "Number of items to generate")
 	flag.StringVar(&textToYaml, "toyaml", "", "Text file containing the different action")
+	flag.BoolVar(&silent, "silent", false, "Silence the flag helper")
 	flag.Parse()
+
+	if !silent {
+		fmt.Println("Flags are (yaml <filename.yaml>, num <number>) or (toyaml <filename.txt>)")
+	}
 
 	// Check if `doSomethingDifferent` is set
 	if textToYaml != "" {
