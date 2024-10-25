@@ -4,12 +4,19 @@ A golang application that will use weights to generate a list of foundryvtt item
 ### Step 1
 copy uuids from a foundry journal into a text file.
 
+### Step 2
 
 ```bash
 go run main.go --toyaml=food.txt
 ```
 
-copy/paste contents to the food.yaml file (might want to drop the weights down from 100)
+### Step 2
+copy/paste contents to the food.yaml file
+
+### Step 2 (optional)
+(might want to drop the weights down from 100)
+
+### Step 3
 
 ```bash
 go run main.go --yaml=food.yaml --num=30
