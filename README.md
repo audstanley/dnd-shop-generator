@@ -10,13 +10,13 @@ copy uuids from a foundry journal into a text file.
 go run main.go --toyaml=food.txt
 ```
 
-### Step 2
+### Step 3
 copy/paste contents from generated_output_items_from_textfile.yaml to a food.yaml file
 
-### Step 2 (optional)
+### Step 3 (optional)
 (might want to drop the weights down from 100)
 
-### Step 3
+### Step 4
 
 ```bash
 go run main.go --yaml=food.yaml --num=30
