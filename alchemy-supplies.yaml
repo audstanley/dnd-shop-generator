@@ -1,9 +1,9 @@
 # --num should be no more than 10
 items:
     - value: '@UUID[Item.0Lapqd8kzpmS0R0z]{Dracula''s Blood}'
-      weight: 1
+      weight: 4
     - value: '@UUID[Item.RirFeyOudF936MLm]{Purple Worm Poison}'
-      weight: 1
+      weight: 4
     - value: '@UUID[Item.oJHIjX6NgapONg7e]{Air Elemental Wisp}'
       weight: 8
     - value: '@UUID[Item.2Q5eat8DBOS7E7Xf]{Angel''s Trumpet}'
@@ -61,72 +61,72 @@ items:
     - value: '@UUID[Item.k8aljL25K5d4mHOF]{Wyvern Poison}'
       weight: 8
     - value: '@UUID[Item.vperyfe91D7Y0mWW]{Acid Dew}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.TZvJoNp0bBKYoxON]{Amphibian Saliva}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.M6NM0PSPlkHUHTdO]{Ankheg Ichor}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.5eMY7G5AibuPbPAG]{Bane Berry}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.S9WUHdPbBP3XPpJO]{Bloodroot}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.LBEZq5ozg7BsldsS]{Crawler Mucus}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.RfEtP6JEextGAzXp]{Eagle Claw}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.OQAPiXDbXeOTP5TD]{Ectoplasm}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.yg1RFBtdR2AfVS5t]{Fire Peas}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.KxyuMr06YyMT9uVI]{Flame Lily}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.4ybCoZqAMDLiQsmb]{Frost Lichen}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.I9eoMEsooRxuJqtA]{Grey Ooze Residue}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.MkUnBgXfcD2QwUwN]{Lightning Moss}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.B6DIfwy19Ts5ikHU]{Mandrake Root}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.ebflYPaV5OfihxDW]{Mindflayer Stinkhorn}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.sODZElZQJ8PiIvH1]{Muroosa Twigs}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.PpZ5ysLIab4PNiCL]{Nightshade}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.XZe2WSquLSLKzHrm]{Nothic Tears}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.pENSKogWx0Tz0fzn]{Olisuba Leaf}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.ZxuFEfo7SerKMoMR]{Singing Nettle}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.S13CXdPDL9vBtWoL]{Skulk Claw}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.5SU6evgnA2ocp13r]{Sourgrass}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.iO0893B9hiYU7D6X]{Theki Root}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.SMab7kAjsYtxGJKJ]{Willowshade Fruit}'
-      weight: 128
+      weight: 32
     - value: '@UUID[Item.8U61IScvrNcit1ZJ]{Cat''s Tongue}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.RPIaybBhCR5X8nyM]{Charcoal}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.jjxoFljmT5atbIT8]{Dreamlily}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.sgg30hrdXOD3vAGC]{Everfrost Berry}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.knMK5veO989xYVz1]{Giant Wolf Spider Hair}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.kUzQnkx0GC5NTHsv]{Gillyweed}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.q56qk1upHBqOeFo0]{Morning Dew}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.uze4YQECLH6snte7]{Quipper Scale}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.PesWw8Dh27Q7hqCB]{Red Amanita Mushroom}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.ilkJBDWZgW16fnmd]{Serpent''s Venom}'
-      weight: 256
+      weight: 96
     - value: '@UUID[Item.u50QJdilHzM5EQaV]{Sugar}'
-      weight: 256
+      weight: 96

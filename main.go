@@ -22,47 +22,40 @@ type Items struct {
 }
 
 func weightedRandomChoice(items []WeightedItem, n int) []WeightedItem {
-	// Sort items by weight in ascending order
-	sort.Slice(items, func(i, j int) bool {
-		return items[i].Weight < items[j].Weight
-	})
-
-	// Calculate cumulative weights
-	cumWeights := make([]int, len(items))
-	cumWeights[0] = items[0].Weight
-	for i := 1; i < len(items); i++ {
-		cumWeights[i] = cumWeights[i-1] + items[i].Weight
+	// Calculate the total weight
+	totalWeight := 0
+	for _, item := range items {
+		totalWeight += item.Weight
 	}
 
-	// Generate random numbers
+	// Normalize weights to probabilities
+	probabilities := make([]float64, len(items))
+	for i, item := range items {
+		probabilities[i] = float64(item.Weight) / float64(totalWeight)
+	}
+
+	// Seed the random number generator
 	rand.Seed(time.Now().UnixNano())
-	randomNums := make([]int, n)
+
+	selectedItems := make([]WeightedItem, 0, n)
 	for i := 0; i < n; i++ {
-		randomNums[i] = rand.Intn(cumWeights[len(cumWeights)-1])
+		// Generate a random number between 0 and 1
+		randomNum := rand.Float64()
+
+		cumulativeProbability := 0.0
+		for i, item := range items {
+			cumulativeProbability += probabilities[i]
+			if randomNum <= cumulativeProbability {
+				selectedItems = append(selectedItems, item)
+				break
+			}
+		}
 	}
 
 	// Extract values within brackets for alphabetization
 	values := make([]string, len(items))
 	for i, item := range items {
 		values[i] = extractValueInBrackets(item.Value)
-	}
-
-	// Find corresponding items based on random numbers
-	selectedItems := make([]WeightedItem, n)
-	for i, randomNum := range randomNums {
-		// Find the original item index based on the sorted value
-		originalIndex := findItemIndexByValue(items, values[i])
-		if originalIndex == -1 {
-			// Handle potential error (item not found)
-			continue
-		}
-
-		// Use the random number to select the corresponding item
-		index := sort.Search(len(cumWeights), func(j int) bool {
-			return cumWeights[j] > randomNum
-		})
-
-		selectedItems[i] = items[(originalIndex+index-1)%len(items)]
 	}
 
 	// Filter out duplicates based on Value
@@ -94,20 +87,10 @@ func extractValueInBrackets(value string) string {
 	return value[start+1 : end]
 }
 
-// Helper function to find the original item index based on the sorted value
-func findItemIndexByValue(items []WeightedItem, value string) int {
-	for i, item := range items {
-		if extractValueInBrackets(item.Value) == value {
-			return i
-		}
-	}
-	return -1 // Item not found
-}
-
 func readYamlConfig(filename string) ([]WeightedItem, error) {
 	data, err := ioutil.ReadFile(filename)
 	if err != nil {
-		return nil, fmt.Errorf("Error reading YAML file: %w", err)
+		return nil, fmt.Errorf("error reading YAML file: %w", err)
 	}
 
 	type YamlConfig struct {
@@ -117,7 +100,7 @@ func readYamlConfig(filename string) ([]WeightedItem, error) {
 	var config YamlConfig
 	err = yaml.Unmarshal(data, &config)
 	if err != nil {
-		return nil, fmt.Errorf("Error parsing YAML data: %w", err)
+		return nil, fmt.Errorf("error parsing YAML data: %w", err)
 	}
 
 	return config.Items, nil
@@ -126,7 +109,7 @@ func readYamlConfig(filename string) ([]WeightedItem, error) {
 func readTextFile(filename string) ([]WeightedItem, error) {
 	data, err := ioutil.ReadFile(filename)
 	if err != nil {
-		return nil, fmt.Errorf("Error reading text file: %w", err)
+		return nil, fmt.Errorf("error reading text file: %w", err)
 	}
 
 	strings.ReplaceAll(string(data), "\n\n", "\n")
@@ -147,12 +130,12 @@ func writeYamlFile(filename string, items []WeightedItem) error {
 	itemsToSave := Items{Items: items}
 	data, err := yaml.Marshal(itemsToSave)
 	if err != nil {
-		return fmt.Errorf("Error marshalling YAML data: %w", err)
+		return fmt.Errorf("error marshalling YAML data: %w", err)
 	}
 
 	err = ioutil.WriteFile(filename, data, 0644)
 	if err != nil {
-		return fmt.Errorf("Error writing YAML file: %w", err)
+		return fmt.Errorf("error writing YAML file: %w", err)
 	}
 
 	return nil
