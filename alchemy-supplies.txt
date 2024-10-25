@@ -1,0 +1,21 @@
+@UUID[Item.8U61IScvrNcit1ZJ]{Cat's Tongue}
+
+@UUID[Item.RPIaybBhCR5X8nyM]{Charcoal}
+
+@UUID[Item.jjxoFljmT5atbIT8]{Dreamlily}
+
+@UUID[Item.sgg30hrdXOD3vAGC]{Everfrost Berry}
+
+@UUID[Item.knMK5veO989xYVz1]{Giant Wolf Spider Hair}
+
+@UUID[Item.kUzQnkx0GC5NTHsv]{Gillyweed}
+
+@UUID[Item.q56qk1upHBqOeFo0]{Morning Dew}
+
+@UUID[Item.uze4YQECLH6snte7]{Quipper Scale}
+
+@UUID[Item.PesWw8Dh27Q7hqCB]{Red Amanita Mushroom}
+
+@UUID[Item.ilkJBDWZgW16fnmd]{Serpent's Venom}
+
+@UUID[Item.u50QJdilHzM5EQaV]{Sugar}

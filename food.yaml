@@ -1,0 +1,159 @@
+items:
+    - value: '@UUID[Item.PVfwaiCVTWLqBDYK]{Apple}'
+      weight: 100
+    - value: '@UUID[Item.suCLK1Wik386qvn6]{Apricot}'
+      weight: 100
+    - value: '@UUID[Item.RTa05op3zqdpjsNl]{Asparagus}'
+      weight: 100
+    - value: '@UUID[Item.sFXU8wthdZ4dstS0]{Avocado}'
+      weight: 100
+    - value: '@UUID[Item.VGmtsSDwYuKU166k]{Banana}'
+      weight: 100
+    - value: '@UUID[Item.DZAMqdZMzC7khpiU]{Basil}'
+      weight: 100
+    - value: '@UUID[Item.kWX0ZEFVqJuKEMSe]{Beans}'
+      weight: 100
+    - value: '@UUID[Item.jWAjwLnXrKQ2LHml]{Bearberry}'
+      weight: 100
+    - value: '@UUID[Item.ONFpSSLQwkfliem9]{Beet}'
+      weight: 100
+    - value: '@UUID[Item.efnKO9MmiYFRzz46]{Bitterroot}'
+      weight: 100
+    - value: '@UUID[Item.S9PbbxB8pFgUjcUh]{Blackberry}'
+      weight: 100
+    - value: '@UUID[Item.BIEijOdM1b12At4d]{Bread}'
+      weight: 100
+    - value: '@UUID[Item.cLz727ZNuHLWtwfQ]{Broccoli}'
+      weight: 100
+    - value: '@UUID[Item.VbWavXJJhNnBrqn1]{Cabbage}'
+      weight: 100
+    - value: '@UUID[Item.R67RpGXjmUMNQ8Dv]{Carrot}'
+      weight: 100
+    - value: '@UUID[Item.kOL73LeUfa1y0z49]{Cauliflower}'
+      weight: 100
+    - value: '@UUID[Item.NhfTudhoIDI4Q8CJ]{Celery}'
+      weight: 100
+    - value: '@UUID[Item.4mtkqtrD1nOd84HG]{Cheese}'
+      weight: 100
+    - value: '@UUID[Item.CPSHd4OTFAIXyBA4]{Cherry}'
+      weight: 100
+    - value: '@UUID[Item.lODv0iKd0sPZ86Eg]{Chicken Egg}'
+      weight: 100
+    - value: '@UUID[Item.fpY4Jjs185Uhx2nq]{Chili Pepper}'
+      weight: 100
+    - value: '@UUID[Item.S8g35RVeCS9jQwYe]{Coconut}'
+      weight: 100
+    - value: '@UUID[Item.Xui75Pbs3RquxkaC]{Coffee Beans}'
+      weight: 100
+    - value: '@UUID[Item.oTdTAKxTW0lP6OwW]{Corn}'
+      weight: 100
+    - value: '@UUID[Item.vu52xxQTQkz69Xz5]{Cucumber}'
+      weight: 100
+    - value: '@UUID[Item.TVsfbYaDn6axKTL9]{Date Fruit}'
+      weight: 100
+    - value: '@UUID[Item.pYF4acOH5msSFEzb]{Death Cap}'
+      weight: 100
+    - value: '@UUID[Item.Fm63zTZTn2GwiCGu]{Dragon Fruit}'
+      weight: 100
+    - value: '@UUID[Item.fSN6ifxNHPNEwECK]{Durian}'
+      weight: 100
+    - value: '@UUID[Item.bqWa4nTbNoOSN8Kv]{Eggplants}'
+      weight: 100
+    - value: '@UUID[Item.ElqIJqHKIQMQFVCZ]{Fig}'
+      weight: 100
+    - value: '@UUID[Item.fvYPUTdwCqAau3Wm]{Garlic}'
+      weight: 100
+    - value: '@UUID[Item.nXlsMn7DQY4SspNm]{Ginger}'
+      weight: 100
+    - value: '@UUID[Item.HMKPQdQdJg7ViN9a]{Grapes}'
+      weight: 100
+    - value: '@UUID[Item.15YFKzLbgsdO0rIN]{Green Apple}'
+      weight: 100
+    - value: '@UUID[Item.pKZqgl4gdnHRj53t]{Green Grapes}'
+      weight: 100
+    - value: '@UUID[Item.rt8LADPWzWkiPltt]{Green Olive}'
+      weight: 100
+    - value: '@UUID[Item.eIZ1kW1LDoiITEEV]{Green Pepper}'
+      weight: 100
+    - value: '@UUID[Item.6MHjeCfHAsniY0v5]{Hazelnut}'
+      weight: 100
+    - value: '@UUID[Item.Bdvq0nX4Hvx4oyiF]{Kiwifruit}'
+      weight: 100
+    - value: '@UUID[Item.RJlX48sfL0u5tg93]{Lemon}'
+      weight: 100
+    - value: '@UUID[Item.wT3egHUVzKiOsiGU]{Lettuce}'
+      weight: 100
+    - value: '@UUID[Item.dih5zeyCkIRBcbY6]{Lime}'
+      weight: 100
+    - value: '@UUID[Item.BrWhX3Qzh0QgFEQm]{Mandarin}'
+      weight: 100
+    - value: '@UUID[Item.muHrz6tk8aFs2Osn]{Mango}'
+      weight: 100
+    - value: '@UUID[Item.6SGSStSITIP10iPw]{Melon}'
+      weight: 100
+    - value: '@UUID[Item.TQVoU7bhEiWN6V1H]{Milk}'
+      weight: 100
+    - value: '@UUID[Item.aINSxAHatji8iUBQ]{Olives}'
+      weight: 100
+    - value: '@UUID[Item.OZ3aMZMB5u1qanvJ]{Onion}'
+      weight: 100
+    - value: '@UUID[Item.koQMIq6pAmttjAEq]{Orange}'
+      weight: 100
+    - value: '@UUID[Item.N09SmoH6E5fWfTVY]{Peach}'
+      weight: 100
+    - value: '@UUID[Item.T5h0yGSniCZXxmkc]{Peach Figs}'
+      weight: 100
+    - value: '@UUID[Item.XBtyWgiGynUYQUfm]{Peanut}'
+      weight: 100
+    - value: '@UUID[Item.MrpDHntVyOOKIu4v]{Pear}'
+      weight: 100
+    - value: '@UUID[Item.pHKdlBmaOmIuXYAi]{Peas}'
+      weight: 100
+    - value: '@UUID[Item.L9DslzRsjly4VcLB]{Pineapple}'
+      weight: 100
+    - value: '@UUID[Item.0EqA9ji9s11WyjbZ]{Plum}'
+      weight: 100
+    - value: '@UUID[Item.wiAZrKYSRuLzg6It]{Pomegranate}'
+      weight: 100
+    - value: '@UUID[Item.T7vCxIo9N8yXnLB5]{Potato}'
+      weight: 100
+    - value: '@UUID[Item.Zt29Cmc6suh7fWUZ]{Pumpkin}'
+      weight: 100
+    - value: '@UUID[Item.J6hFRriDHB5nf7QU]{Purple Berries}'
+      weight: 100
+    - value: '@UUID[Item.yv3bkXvldkM6UsXO]{Quince}'
+      weight: 100
+    - value: '@UUID[Item.gfjvWNnY0T9u6w1u]{Radish}'
+      weight: 100
+    - value: '@UUID[Item.0hYy2ESxYPqXtPEC]{Raspberry}'
+      weight: 100
+    - value: '@UUID[Item.ZDZgSgBq8ZBeASJO]{Red Cabbage}'
+      weight: 100
+    - value: '@UUID[Item.sH7IZJJTuFtsT25w]{Red Onion}'
+      weight: 100
+    - value: '@UUID[Item.cUKoYPsY1MaHUm3S]{Rhubarb}'
+      weight: 100
+    - value: '@UUID[Item.Gw9IV9TgZ5GOr5IQ]{Spinach}'
+      weight: 100
+    - value: '@UUID[Item.dKTpePk3D8o9GT4A]{Squash}'
+      weight: 100
+    - value: '@UUID[Item.pFpBznJVkU8ohkfX]{Strawberry}'
+      weight: 100
+    - value: '@UUID[Item.eox0LKxE09d5u3Vq]{Sugar Beet}'
+      weight: 100
+    - value: '@UUID[Item.dcEdOPTB8MBVHpnC]{Sunberries}'
+      weight: 100
+    - value: '@UUID[Item.moQKgN6G20eTy7r3]{Toadstool}'
+      weight: 100
+    - value: '@UUID[Item.Ot53aPXhhvPiurAj]{Tomato}'
+      weight: 100
+    - value: '@UUID[Item.Wvbwdib5acjyilVE]{Turnip}'
+      weight: 100
+    - value: '@UUID[Item.gW0HZMddELHuJ4Pv]{Watermelon}'
+      weight: 100
+    - value: '@UUID[Item.EoGu4sskVif3ddiY]{White Radish}'
+      weight: 100
+    - value: '@UUID[Item.ptcaF5cM2P7eDxWE]{Wild Mint}'
+      weight: 100
+    - value: '@UUID[Item.KOZVdhlwfta49aYJ]{Wolf Bane''s Leafs}'
+      weight: 100

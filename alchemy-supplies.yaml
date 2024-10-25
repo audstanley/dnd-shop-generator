@@ -1,0 +1,131 @@
+items:
+    - value: '@UUID[Item.0Lapqd8kzpmS0R0z]{Dracula''s Blood}'
+      weight: 4
+    - value: '@UUID[Item.RirFeyOudF936MLm]{Purple Worm Poison}'
+      weight: 4
+    - value: '@UUID[Item.oJHIjX6NgapONg7e]{Air Elemental Wisp}'
+      weight: 8
+    - value: '@UUID[Item.2Q5eat8DBOS7E7Xf]{Angel''s Trumpet}'
+      weight: 8
+    - value: '@UUID[Item.f9G9joeHSclgyXNL]{Ashblossom}'
+      weight: 8
+    - value: '@UUID[Item.WeMebyyH2jXTQtTH]{Black Cap Mushroom}'
+      weight: 8
+    - value: '@UUID[Item.N0AouALqeIy09kCX]{Black Sap}'
+      weight: 8
+    - value: '@UUID[Item.N0AouALqeIy09kCX]{Black Sap}'
+      weight: 8
+    - value: '@UUID[Item.hJMFlmpilZ8LpVKE]{Blight Spores}'
+      weight: 8
+    - value: '@UUID[Item.ZTXmBm0pYhuK5AxE]{Death Cap}'
+      weight: 8
+    - value: '@UUID[Item.FL1DOoV7dEZ4YmsH]{Dragon''s Blood}'
+      weight: 8
+    - value: '@UUID[Item.yCtZ2e5lV2ehnECa]{Drider Poison}'
+      weight: 8
+    - value: '@UUID[Item.Z3AeLcmiknIMJWI0]{Earth Elemental Pebbles}'
+      weight: 8
+    - value: '@UUID[Item.gM92fpjY9teFQ8ew]{Fairy Stool}'
+      weight: 8
+    - value: '@UUID[Item.j97S0KQGurQL55do]{Fire Elemental Embers}'
+      weight: 8
+    - value: '@UUID[Item.A9RbPBHYwoNK1OpV]{Giant''s Fingernail}'
+      weight: 8
+    - value: '@UUID[Item.qXk27yXG0KVONssI]{Hagfinger}'
+      weight: 8
+    - value: '@UUID[Item.e9SUSA3TYHv9gxXl]{Idle Claws}'
+      weight: 8
+    - value: '@UUID[Item.icRXQFh2Fx4HvQe0]{Imp Heart}'
+      weight: 8
+    - value: '@UUID[Item.dJfTixoUfWKnFxkH]{Lightning Struck Metal}'
+      weight: 8
+    - value: '@UUID[Item.XsePsNGNXztjGhqt]{Moonstalker}'
+      weight: 8
+    - value: '@UUID[Item.WglM0mvztSmJL7Lv]{Pixie''s Parasol}'
+      weight: 8
+    - value: '@UUID[Item.O0eT04b4AYt7qvr9]{Rainbow Mushroom}'
+      weight: 8
+    - value: '@UUID[Item.YYUeBM8oMDoHunTb]{Remorhaz Ichor}'
+      weight: 8
+    - value: '@UUID[Item.IvLk97TKspuqU1eX]{Silverthorn}'
+      weight: 8
+    - value: '@UUID[Item.YfVnagCZGhL6uoH3]{Soothsalt Geode}'
+      weight: 8
+    - value: '@UUID[Item.cPEvS5IOvDBuvtxw]{Water Elemental Droplets}'
+      weight: 8
+    - value: '@UUID[Item.AvyiJlB22uJt9J5E]{White Ghost Orchid Seed}'
+      weight: 8
+    - value: '@UUID[Item.Ag50fstRwIuLyrhr]{Wolfsbane}'
+      weight: 8
+    - value: '@UUID[Item.k8aljL25K5d4mHOF]{Wyvern Poison}'
+      weight: 8
+    - value: '@UUID[Item.vperyfe91D7Y0mWW]{Acid Dew}'
+      weight: 16
+    - value: '@UUID[Item.TZvJoNp0bBKYoxON]{Amphibian Saliva}'
+      weight: 16
+    - value: '@UUID[Item.M6NM0PSPlkHUHTdO]{Ankheg Ichor}'
+      weight: 16
+    - value: '@UUID[Item.5eMY7G5AibuPbPAG]{Bane Berry}'
+      weight: 16
+    - value: '@UUID[Item.S9WUHdPbBP3XPpJO]{Bloodroot}'
+      weight: 16
+    - value: '@UUID[Item.LBEZq5ozg7BsldsS]{Crawler Mucus}'
+      weight: 16
+    - value: '@UUID[Item.RfEtP6JEextGAzXp]{Eagle Claw}'
+      weight: 16
+    - value: '@UUID[Item.OQAPiXDbXeOTP5TD]{Ectoplasm}'
+      weight: 16
+    - value: '@UUID[Item.yg1RFBtdR2AfVS5t]{Fire Peas}'
+      weight: 16
+    - value: '@UUID[Item.KxyuMr06YyMT9uVI]{Flame Lily}'
+      weight: 16
+    - value: '@UUID[Item.4ybCoZqAMDLiQsmb]{Frost Lichen}'
+      weight: 16
+    - value: '@UUID[Item.I9eoMEsooRxuJqtA]{Grey Ooze Residue}'
+      weight: 16
+    - value: '@UUID[Item.MkUnBgXfcD2QwUwN]{Lightning Moss}'
+      weight: 16
+    - value: '@UUID[Item.B6DIfwy19Ts5ikHU]{Mandrake Root}'
+      weight: 16
+    - value: '@UUID[Item.ebflYPaV5OfihxDW]{Mindflayer Stinkhorn}'
+      weight: 16
+    - value: '@UUID[Item.sODZElZQJ8PiIvH1]{Muroosa Twigs}'
+      weight: 16
+    - value: '@UUID[Item.PpZ5ysLIab4PNiCL]{Nightshade}'
+      weight: 16
+    - value: '@UUID[Item.XZe2WSquLSLKzHrm]{Nothic Tears}'
+      weight: 16
+    - value: '@UUID[Item.pENSKogWx0Tz0fzn]{Olisuba Leaf}'
+      weight: 16
+    - value: '@UUID[Item.ZxuFEfo7SerKMoMR]{Singing Nettle}'
+      weight: 16
+    - value: '@UUID[Item.S13CXdPDL9vBtWoL]{Skulk Claw}'
+      weight: 16
+    - value: '@UUID[Item.5SU6evgnA2ocp13r]{Sourgrass}'
+      weight: 16
+    - value: '@UUID[Item.iO0893B9hiYU7D6X]{Theki Root}'
+      weight: 16
+    - value: '@UUID[Item.SMab7kAjsYtxGJKJ]{Willowshade Fruit}'
+      weight: 16
+    - value: '@UUID[Item.8U61IScvrNcit1ZJ]{Cat''s Tongue}'
+      weight: 32
+    - value: '@UUID[Item.RPIaybBhCR5X8nyM]{Charcoal}'
+      weight: 32
+    - value: '@UUID[Item.jjxoFljmT5atbIT8]{Dreamlily}'
+      weight: 32
+    - value: '@UUID[Item.sgg30hrdXOD3vAGC]{Everfrost Berry}'
+      weight: 32
+    - value: '@UUID[Item.knMK5veO989xYVz1]{Giant Wolf Spider Hair}'
+      weight: 32
+    - value: '@UUID[Item.kUzQnkx0GC5NTHsv]{Gillyweed}'
+      weight: 32
+    - value: '@UUID[Item.q56qk1upHBqOeFo0]{Morning Dew}'
+      weight: 32
+    - value: '@UUID[Item.uze4YQECLH6snte7]{Quipper Scale}'
+      weight: 32
+    - value: '@UUID[Item.PesWw8Dh27Q7hqCB]{Red Amanita Mushroom}'
+      weight: 32
+    - value: '@UUID[Item.ilkJBDWZgW16fnmd]{Serpent''s Venom}'
+      weight: 32
+    - value: '@UUID[Item.u50QJdilHzM5EQaV]{Sugar}'
+      weight: 32

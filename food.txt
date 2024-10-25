@@ -1,0 +1,157 @@
+@UUID[Item.PVfwaiCVTWLqBDYK]{Apple}
+
+@UUID[Item.suCLK1Wik386qvn6]{Apricot}
+
+@UUID[Item.RTa05op3zqdpjsNl]{Asparagus}
+
+@UUID[Item.sFXU8wthdZ4dstS0]{Avocado}
+
+@UUID[Item.VGmtsSDwYuKU166k]{Banana}
+
+@UUID[Item.DZAMqdZMzC7khpiU]{Basil}
+
+@UUID[Item.kWX0ZEFVqJuKEMSe]{Beans}
+
+@UUID[Item.jWAjwLnXrKQ2LHml]{Bearberry}
+
+@UUID[Item.ONFpSSLQwkfliem9]{Beet}
+
+@UUID[Item.efnKO9MmiYFRzz46]{Bitterroot}
+
+@UUID[Item.S9PbbxB8pFgUjcUh]{Blackberry}
+
+@UUID[Item.BIEijOdM1b12At4d]{Bread}
+
+@UUID[Item.cLz727ZNuHLWtwfQ]{Broccoli}
+
+@UUID[Item.VbWavXJJhNnBrqn1]{Cabbage}
+
+@UUID[Item.R67RpGXjmUMNQ8Dv]{Carrot}
+
+@UUID[Item.kOL73LeUfa1y0z49]{Cauliflower}
+
+@UUID[Item.NhfTudhoIDI4Q8CJ]{Celery}
+
+@UUID[Item.4mtkqtrD1nOd84HG]{Cheese}
+
+@UUID[Item.CPSHd4OTFAIXyBA4]{Cherry}
+
+@UUID[Item.lODv0iKd0sPZ86Eg]{Chicken Egg}
+
+@UUID[Item.fpY4Jjs185Uhx2nq]{Chili Pepper}
+
+@UUID[Item.S8g35RVeCS9jQwYe]{Coconut}
+
+@UUID[Item.Xui75Pbs3RquxkaC]{Coffee Beans}
+
+@UUID[Item.oTdTAKxTW0lP6OwW]{Corn}
+
+@UUID[Item.vu52xxQTQkz69Xz5]{Cucumber}
+
+@UUID[Item.TVsfbYaDn6axKTL9]{Date Fruit}
+
+@UUID[Item.pYF4acOH5msSFEzb]{Death Cap}
+
+@UUID[Item.Fm63zTZTn2GwiCGu]{Dragon Fruit}
+
+@UUID[Item.fSN6ifxNHPNEwECK]{Durian}
+
+@UUID[Item.bqWa4nTbNoOSN8Kv]{Eggplants}
+
+@UUID[Item.ElqIJqHKIQMQFVCZ]{Fig}
+
+@UUID[Item.fvYPUTdwCqAau3Wm]{Garlic}
+
+@UUID[Item.nXlsMn7DQY4SspNm]{Ginger}
+
+@UUID[Item.HMKPQdQdJg7ViN9a]{Grapes}
+
+@UUID[Item.15YFKzLbgsdO0rIN]{Green Apple}
+
+@UUID[Item.pKZqgl4gdnHRj53t]{Green Grapes}
+
+@UUID[Item.rt8LADPWzWkiPltt]{Green Olive}
+
+@UUID[Item.eIZ1kW1LDoiITEEV]{Green Pepper}
+
+@UUID[Item.6MHjeCfHAsniY0v5]{Hazelnut}
+
+@UUID[Item.Bdvq0nX4Hvx4oyiF]{Kiwifruit}
+
+@UUID[Item.RJlX48sfL0u5tg93]{Lemon}
+
+@UUID[Item.wT3egHUVzKiOsiGU]{Lettuce}
+
+@UUID[Item.dih5zeyCkIRBcbY6]{Lime}
+
+@UUID[Item.BrWhX3Qzh0QgFEQm]{Mandarin}
+
+@UUID[Item.muHrz6tk8aFs2Osn]{Mango}
+
+@UUID[Item.6SGSStSITIP10iPw]{Melon}
+
+@UUID[Item.TQVoU7bhEiWN6V1H]{Milk}
+
+@UUID[Item.aINSxAHatji8iUBQ]{Olives}
+
+@UUID[Item.OZ3aMZMB5u1qanvJ]{Onion}
+
+@UUID[Item.koQMIq6pAmttjAEq]{Orange}
+
+@UUID[Item.N09SmoH6E5fWfTVY]{Peach}
+
+@UUID[Item.T5h0yGSniCZXxmkc]{Peach Figs}
+
+@UUID[Item.XBtyWgiGynUYQUfm]{Peanut}
+
+@UUID[Item.MrpDHntVyOOKIu4v]{Pear}
+
+@UUID[Item.pHKdlBmaOmIuXYAi]{Peas}
+
+@UUID[Item.L9DslzRsjly4VcLB]{Pineapple}
+
+@UUID[Item.0EqA9ji9s11WyjbZ]{Plum}
+
+@UUID[Item.wiAZrKYSRuLzg6It]{Pomegranate}
+
+@UUID[Item.T7vCxIo9N8yXnLB5]{Potato}
+
+@UUID[Item.Zt29Cmc6suh7fWUZ]{Pumpkin}
+
+@UUID[Item.J6hFRriDHB5nf7QU]{Purple Berries}
+
+@UUID[Item.yv3bkXvldkM6UsXO]{Quince}
+
+@UUID[Item.gfjvWNnY0T9u6w1u]{Radish}
+
+@UUID[Item.0hYy2ESxYPqXtPEC]{Raspberry}
+
+@UUID[Item.ZDZgSgBq8ZBeASJO]{Red Cabbage}
+
+@UUID[Item.sH7IZJJTuFtsT25w]{Red Onion}
+
+@UUID[Item.cUKoYPsY1MaHUm3S]{Rhubarb}
+
+@UUID[Item.Gw9IV9TgZ5GOr5IQ]{Spinach}
+
+@UUID[Item.dKTpePk3D8o9GT4A]{Squash}
+
+@UUID[Item.pFpBznJVkU8ohkfX]{Strawberry}
+
+@UUID[Item.eox0LKxE09d5u3Vq]{Sugar Beet}
+
+@UUID[Item.dcEdOPTB8MBVHpnC]{Sunberries}
+
+@UUID[Item.moQKgN6G20eTy7r3]{Toadstool}
+
+@UUID[Item.Ot53aPXhhvPiurAj]{Tomato}
+
+@UUID[Item.Wvbwdib5acjyilVE]{Turnip}
+
+@UUID[Item.gW0HZMddELHuJ4Pv]{Watermelon}
+
+@UUID[Item.EoGu4sskVif3ddiY]{White Radish}
+
+@UUID[Item.ptcaF5cM2P7eDxWE]{Wild Mint}
+
+@UUID[Item.KOZVdhlwfta49aYJ]{Wolf Bane's Leafs}
