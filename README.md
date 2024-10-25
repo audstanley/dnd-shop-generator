@@ -11,7 +11,7 @@ go run main.go --toyaml=food.txt
 ```
 
 ### Step 2
-copy/paste contents to the food.yaml file
+copy/paste contents from generated_output_items_from_textfile.yaml to a food.yaml file
 
 ### Step 2 (optional)
 (might want to drop the weights down from 100)
