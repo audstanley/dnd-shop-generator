@@ -1,0 +1,265 @@
+@UUID[Item.GaC2lSie6klenrLG]{Acid Splash}
+
+@UUID[Item.8YgmHUccHaxpoUL0]{Blade Ward}
+
+@UUID[Item.kh3kaxnnPqBCD6SW]{Booming Blade}
+
+@UUID[Item.CfD301UXF2iR5Uz0]{Chill Touch}
+
+@UUID[Item.GN5gh1gNb5O6UBcd]{Control Flames}
+
+@UUID[Item.vutRgdBDpMIGcBPZ]{Create Bonfire}
+
+@UUID[Item.GJEWxd6m227UA3bV]{Dancing Lights}
+
+@UUID[Item.yxtTrMt4Xa8iryFL]{Druidcraft}
+
+@UUID[Item.zseF7nEhnDRaxw4p]{Eldritch Blast}
+
+@UUID[Item.HFBxUQ3kcEf4Xc6K]{Encode Thoughts}
+
+@UUID[Item.I3LzT1pKuJdiLvjM]{Fire Bolt}
+
+@UUID[Item.Waw20dIBxcwZi1pV]{Friends}
+
+@UUID[Item.FW40HFLh6e0gh9PG]{Frostbite}
+
+@UUID[Item.N0YxaSHdS0zJgb0O]{Green-Flame Blade}
+
+@UUID[Item.2Bbk2KHGnlclqj7D]{Guidance}
+
+@UUID[Item.qMCjpHpUaGiTxUOT]{Gust}
+
+@UUID[Item.W992vflR0yd1ePF0]{Infestation}
+
+@UUID[Item.vPItoskSJtheuzkJ]{Light}
+
+@UUID[Item.HTS1Dl8nlAIXMBHJ]{Lightning Lure}
+
+@UUID[Item.JcW5Owya3THfkYEi]{Mage Hand}
+
+@UUID[Item.LAoT7FbkY58Z9tG3]{Magic Stone}
+
+@UUID[Item.aKnc50lMIsyangqp]{Mending}
+
+@UUID[Item.jEnhQybto4v539RP]{Message}
+
+@UUID[Item.eLGOtXEL7qX2ztHW]{Mind Sliver}
+
+@UUID[Item.udDCKff2WRbYVS1U]{Minor Illusion}
+
+@UUID[Item.TtVJZRAiYvglslJp]{Mold Earth}
+
+@UUID[Item.aWF8AM9QNMY2QcKD]{Poison Spray}
+
+@UUID[Item.hYQ3o11xWQKIDtxM]{Prestidigitation}
+
+@UUID[Item.tiFDspn2j8LLwHK6]{Primal Savagery}
+
+@UUID[Item.yG3WAjCHAnyM21sk]{Produce Flame}
+
+@UUID[Item.rhZF8C0oqF9vQkkp]{Ray of Frost}
+
+@UUID[Item.z8IvVZ16dWxJZrzm]{Resistance}
+
+@UUID[Item.quhCA7Mv65flqHSm]{Sacred Flame}
+
+@UUID[Item.MAPQOA7DVuxCsZq0]{Sapping Sting}
+
+@UUID[Item.921GrLeBA1uAtYNp]{Shape Water}
+
+@UUID[Item.TTv8XCNZAdnz022z]{Shillelagh}
+
+@UUID[Item.Ns3zHW9mgtt3b3N3]{Shocking Grasp}
+
+@UUID[Item.DEYNOS5NraNAqRni]{Spare the Dying}
+
+@UUID[Item.TdWERJIEmrJFmYh1]{Sword Burst}
+
+@UUID[Item.8hL6oOgaJ8lgYzLB]{Thaumaturgy}
+
+@UUID[Item.gV6xVqIe3E9SfFjD]{Thorn Whip}
+
+@UUID[Item.KmeHRNKqaW2nr3yE]{Thunderclap}
+
+@UUID[Item.2Y3JxlpjTfGSUnRk]{Toll the Dead}
+
+@UUID[Item.jsA861fzOxKlBVNz]{True Strike}
+
+@UUID[Item.lqbJhgTaXyVKhCga]{Vicious Mockery}
+
+@UUID[Item.753mx5W3RWn7GrPS]{Word of Radiance}
+
+@UUID[Item.43tEHgTcY3lIxLLW]{Abhorrence}
+
+@UUID[Item.woCSpfOIVkc9u34D]{Acumen}
+
+@UUID[Item.WVKPwjOqRpRsqtw8]{Ale-dritch Blast}
+
+@UUID[Item.WfhPcwyQZBSHyMYF]{Allure}
+
+@UUID[Item.oGEGl2x6l9KoiFxf]{Animated Scroll}
+
+@UUID[Item.Ak9naDwkGCFgzGzD]{Benediction}
+
+@UUID[Item.dM5atAXT7Sbixo0D]{Bewilderment}
+
+@UUID[Item.wwOGpKtpQz2mrrZa]{Biting Arrow}
+
+@UUID[Item.JN1WcapOOvsUyYeS]{Black Goat's Blessing}
+
+@UUID[Item.VJynwBFjnwsMYYhr]{Bless the Dead}
+
+@UUID[Item.nODTiw6RdutvRLEU]{Blood Tide}
+
+@UUID[Item.C0AvcBulZBcynqUK]{Brawn Boost}
+
+@UUID[Item.uV7ZprkrbbtLUokS]{Bright Sparks}
+
+@UUID[Item.QHd5FYSnld7LiCQq]{Brimstone Infusion}
+
+@UUID[Item.ivLkq2o0pd0FcuUL]{Caustic Touch}
+
+@UUID[Item.3BorSC6kjZkf0UBj]{Clockwork Bolt}
+
+@UUID[Item.8zYUQ82I2n9dKXhk]{Clumsiness}
+
+@UUID[Item.aauHJ9BpYazksW3u]{Dark Maw}
+
+@UUID[Item.WjfGEtOKe6xdMsDE]{Decay}
+
+@UUID[Item.TELfoAN4IwEJvcE4]{Dragon Roar}
+
+@UUID[Item.uYjAZiMqcMVC7B4O]{Encrypt / Decrypt}
+
+@UUID[Item.EwG6OmIWmDoloK9W]{Enumerate}
+
+@UUID[Item.QxkkqiBgtIbyLGQJ]{Exceptional Wit}
+
+@UUID[Item.3O6ZRfJ85alCXo8m]{Fist of Iron}
+
+@UUID[Item.YRrcVFniTTZYKcrJ]{Fortitude}
+
+@UUID[Item.PLqwOV5EYZOmGvTG]{Frailty}
+
+@UUID[Item.M12vDQl8CRsBt8hp]{Hamstring}
+
+@UUID[Item.tDbGjfIa4rfSF55Q]{Hoarfrost}
+
+@UUID[Item.tl64M2iCwjcDQ75D]{Hobble}
+
+@UUID[Item.0OfG1DbdmV0W4rQr]{Impotence}
+
+@UUID[Item.h5mivAsRJtNtVQOT]{Iron Hand}
+
+@UUID[Item.qBrqKxxPFCRUnrUc]{Luminous Bolt}
+
+@UUID[Item.lmHn77R546MdijJI]{Nimbleness}
+
+@UUID[Item.uMx71jSPRoy6RIeC]{Obtuse}
+
+@UUID[Item.1GqQ3TWrP8ddGvIg]{Puff of Smoke}
+
+@UUID[Item.7iKi80ZpxGWL3Uh6]{Pummelstone}
+
+@UUID[Item.wM2qr1Zr6OPlwoSy]{Quicken}
+
+@UUID[Item.hG1YzACoqOZ4XIlo]{Scribe}
+
+@UUID[Item.chdNJ7F3EVG4sp1f]{Semblance of Dread}
+
+@UUID[Item.lqHxk6JUHULHBqNe]{Shiver}
+
+@UUID[Item.HcwICROLXxW1yMI6]{Starburst}
+
+@UUID[Item.EXnKj0YYLISjCvfQ]{Telekinetic Trip}
+
+@UUID[Item.YvcogBPj31aDUkEy]{Thunder Bolt}
+
+@UUID[Item.1lXR1uD2Wys1qnNZ]{Tree Heal}
+
+@UUID[Item.88ygWWvgxcQj4v2t]{Uncanny Avoidance}
+
+@UUID[Item.hAJuoqnhmM2VQycD]{Wind Lash}
+
+@UUID[Item.00sFkE1K1VQ9xyJt]{Arcane Sparkler}
+
+@UUID[Item.Mnax4DweAJ5vYPME]{Biting Armor}
+
+@UUID[Item.Mnax4DweAJ5vYPME]{Biting Armor}
+
+@UUID[Item.ULwXSRjWDvm0AZMH]{Blood Purge}
+
+@UUID[Item.Ztu9hfAYsaXCOA2O]{Cecily’s Stormshot}
+
+@UUID[Item.yLi04SikT9OYFCVF]{Claw Guard}
+
+@UUID[Item.0JaBcNYj4JErmVt5]{Claws of Darkness}
+
+@UUID[Item.C7FZyhifR5FccRAp]{Conjure Thicket}
+
+@UUID[Item.b2RasEndK4Wmb7ls]{Deflection}
+
+@UUID[Item.7aViydeFaqJM5kwK]{Douse Light}
+
+@UUID[Item.3EYK4zU9bnlsk44u]{Drayfn’s Bane of Excellence}
+
+@UUID[Item.t2IIO7M0REv36eY0]{Dream Glimpse}
+
+@UUID[Item.ekZDvLaRUsjWlljN]{Drizzle}
+
+@UUID[Item.5V0etctLryGhxZEx]{Een’s Molten Shard}
+
+@UUID[Item.hLZ8fF47kaEdyx9u]{Effervesce Sense}
+
+@UUID[Item.vzHrKgyq10DhVJK9]{Flame’s Kiss}
+
+@UUID[Item.bCFyHbco0Fy6YYHx]{Flowering}
+
+@UUID[Item.fM6MvG9YnIPPQovw]{Gnaw}
+
+@UUID[Item.zNkLYLdtjn7exjsR]{Hand of Doom}
+
+@UUID[Item.Bbb8Zt7isBvrSfSP]{Illusion of Health}
+
+@UUID[Item.AIKGH6NfJs4oiPxJ]{Memento Mori}
+
+@UUID[Item.HDPWWBTOmNXN7PJr]{Misstep}
+
+@UUID[Item.W1X1fAykluW4Jww8]{Obfuscate Object}
+
+@UUID[Item.ttUj5WWjau4tRhPp]{Panacea}
+
+@UUID[Item.Wyb9VNcQs1Y6LZBo]{Plague Marks}
+
+@UUID[Item.HjKZuL1Zn9LHr1lc]{Pocketful of Posies}
+
+@UUID[Item.JDOv3SnPmShQ16oG]{Rime}
+
+@UUID[Item.tTR98cZK3lpbzjyv]{Shackle}
+
+@UUID[Item.lrztGjwF0S5ijM8P]{Shadow Bite}
+
+@UUID[Item.2iHv4x2tVu1JvJ8x]{Shadow Blindness}
+
+@UUID[Item.60ZwylM7qgffaHqt]{Silhouette}
+
+@UUID[Item.UEqhafwqqiCznmNk]{Slime Guard}
+
+@UUID[Item.OR7azQ1B5NBFVoZb]{Smolder}
+
+@UUID[Item.RGP5mlGW3cPgJSLw]{Spray of Glass}
+
+@UUID[Item.ti86bhDI8lbXmZOk]{Spy}
+
+@UUID[Item.qJh5CHhFVuJ7wxfy]{Storm Mote}
+
+@UUID[Item.TAcCilXDU3Dh6hmD]{Strip Wood}
+
+@UUID[Item.RMJP3NMnxQKLgj5n]{Swing and a Missile}
+
+@UUID[Item.NqgBJQwc166NMJUw]{Weight Spike}
+
+@UUID[Item.hrdyVFulZy9BirBq]{Wilting Breath}
+
+@UUID[Item.Mdq9G8glau5qKWzI]{Word of Unmaking}

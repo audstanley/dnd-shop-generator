@@ -1,0 +1,1477 @@
+items:
+    - value: '@UUID[Item.uVdPaMw95Wf5iRxe]{Animate Dead}'
+      weight: 64
+    - value: '@UUID[Item.xmgoTevbwSwwMX4Q]{Ashardalon''s Stride}'
+      weight: 64
+    - value: '@UUID[Item.wVTgw2QGnpLikT4d]{Aura of Vitality}'
+      weight: 64
+    - value: '@UUID[Item.tESjKFYV7RJCGBgc]{Beacon of Hope}'
+      weight: 64
+    - value: '@UUID[Item.e7ZHI3AFjh92kiio]{Bestow Curse}'
+      weight: 64
+    - value: '@UUID[Item.3HjkWV3TquCZqUOv]{Blinding Smite}'
+      weight: 64
+    - value: '@UUID[Item.OtFqDwJtWt16VEFJ]{Blink}'
+      weight: 64
+    - value: '@UUID[Item.mQ43hV4LRvMYh7h3]{Call Lightning}'
+      weight: 64
+    - value: '@UUID[Item.ywZiILNWfJXN57bz]{Catnap}'
+      weight: 64
+    - value: '@UUID[Item.kzXoZe3vUqNMaBqA]{Clairvoyance}'
+      weight: 64
+    - value: '@UUID[Item.WMb5pJ1d7y2wD0bQ]{Conjure Animals}'
+      weight: 64
+    - value: '@UUID[Item.xCHUFApRdTQpsPoy]{Conjure Barrage}'
+      weight: 64
+    - value: '@UUID[Item.WXYK6przsm9DOZiu]{Counterspell}'
+      weight: 64
+    - value: '@UUID[Item.vdpVrS59vDyg2C26]{Create Food and Water}'
+      weight: 64
+    - value: '@UUID[Item.btTgYmtzpO47nobj]{Crusader''s Mantle}'
+      weight: 64
+    - value: '@UUID[Item.ovqikjtAbdRxgrFw]{Daylight}'
+      weight: 64
+    - value: '@UUID[Item.7AXh4ykMr2t1WgfC]{Dispel Magic}'
+      weight: 64
+    - value: '@UUID[Item.sLu61cIolQG91ttd]{Elemental Weapon}'
+      weight: 64
+    - value: '@UUID[Item.jmxaZZN3BSLRnVxL]{Enemies Abound}'
+      weight: 64
+    - value: '@UUID[Item.DMcUw62Y46Z9zzvj]{Erupting Earth}'
+      weight: 64
+    - value: '@UUID[Item.ASYAx1gNgzSl9Lfo]{Fast Friends}'
+      weight: 64
+    - value: '@UUID[Item.NKt6mBMjtQChtaDn]{Fear}'
+      weight: 64
+    - value: '@UUID[Item.ilFcDmrdxaUq2LJ2]{Feign Death}'
+      weight: 64
+    - value: '@UUID[Item.1JdLREBrerPuFYyn]{Fireball}'
+      weight: 64
+    - value: '@UUID[Item.cTK0vxudFazDtjyK]{Flame Arrows}'
+      weight: 64
+    - value: '@UUID[Item.xjKrX8T7KDt2vkYg]{Fly}'
+      weight: 64
+    - value: '@UUID[Item.aFgRyE36JU5MWrGc]{Gaseous Form}'
+      weight: 64
+    - value: '@UUID[Item.20pOzaNTWT6lVrE4]{Glyph of Warding}'
+      weight: 64
+    - value: '@UUID[Item.12dNWZDfY6fz7x4B]{Haste}'
+      weight: 64
+    - value: '@UUID[Item.ZTKlT2u9HdTDTvIh]{Hunger of Hadar}'
+      weight: 64
+    - value: '@UUID[Item.ez7RaWQ82atoZ0K9]{Hypnotic Pattern}'
+      weight: 64
+    - value: '@UUID[Item.m3LlBOeXRUzxYy86]{Incite Greed}'
+      weight: 64
+    - value: '@UUID[Item.PjeaRLRSqUM0Br3J]{Intellect Fortress}'
+      weight: 64
+    - value: '@UUID[Item.g5HsLZ8MxsvIVluv]{Leomund''s Tiny Hut}'
+      weight: 64
+    - value: '@UUID[Item.ufhJrm6VyICQE5Ji]{Life Transference}'
+      weight: 64
+    - value: '@UUID[Item.gNJwxBxrCbXiFTYk]{Lightning Arrow}'
+      weight: 64
+    - value: '@UUID[Item.ovFPZhi8uRlbqdpn]{Lightning Bolt}'
+      weight: 64
+    - value: '@UUID[Item.53EHKutXVGqYZAFt]{Magic Circle}'
+      weight: 64
+    - value: '@UUID[Item.9oaqoUns0yMQGifC]{Major Image}'
+      weight: 64
+    - value: '@UUID[Item.jV1S90dTt5uIphqq]{Mass Healing Word}'
+      weight: 64
+    - value: '@UUID[Item.albYNwZNKn0sRHGP]{Meld into Stone}'
+      weight: 64
+    - value: '@UUID[Item.I8pseNTF9a5CxOVV]{Melf''s Minute Meteors}'
+      weight: 64
+    - value: '@UUID[Item.4Rwoh4vVaTTeoySz]{Motivational Speech}'
+      weight: 64
+    - value: '@UUID[Item.ULowrYIyUAKHsGd2]{Nondetection}'
+      weight: 64
+    - value: '@UUID[Item.02l1zUH9NqO1efOQ]{Phantom Steed}'
+      weight: 64
+    - value: '@UUID[Item.XYGdGO7l7VZWO0Qn]{Plant Growth}'
+      weight: 64
+    - value: '@UUID[Item.ldJdPgTMnev91wKZ]{Protection from Energy}'
+      weight: 64
+    - value: '@UUID[Item.Vfury2lDuxJJ4Wl4]{Pulse Wave}'
+      weight: 64
+    - value: '@UUID[Item.dK9w7sJIeZeUkCrq]{Remove Curse}'
+      weight: 64
+    - value: '@UUID[Item.0S2rglD5cnplOZhq]{Revivify}'
+      weight: 64
+    - value: '@UUID[Item.RbVMCfXHSXWTkCG5]{Sending}'
+      weight: 64
+    - value: '@UUID[Item.yJ8LxUxugYJfvKIz]{Sleet Storm}'
+      weight: 64
+    - value: '@UUID[Item.6SMOEgT04uExOfT3]{Slow}'
+      weight: 64
+    - value: '@UUID[Item.geqR0OanberyJ8y5]{Speak with Dead}'
+      weight: 64
+    - value: '@UUID[Item.zq37fZotOLzjW5RJ]{Speak with Plants}'
+      weight: 64
+    - value: '@UUID[Item.kxGI7mCNTGVg2KWj]{Spirit Guardians}'
+      weight: 64
+    - value: '@UUID[Item.20zHObu6KQXIAkK2]{Spirit Shroud}'
+      weight: 64
+    - value: '@UUID[Item.tq9EgLXuwpY9RJ3F]{Stinking Cloud}'
+      weight: 64
+    - value: '@UUID[Item.wpxh155XHGDFEF1x]{Summon Fey}'
+      weight: 64
+    - value: '@UUID[Item.5wPZBYyOajZgikrr]{Summon Lesser Demons}'
+      weight: 64
+    - value: '@UUID[Item.I8AxDZVEDLpsZXHa]{Summon Shadowspawn}'
+      weight: 64
+    - value: '@UUID[Item.OlropRZjagLDPOPv]{Summon Undead}'
+      weight: 64
+    - value: '@UUID[Item.HMIx5MTHjQ249lew]{Thunder Step}'
+      weight: 64
+    - value: '@UUID[Item.UomeUnV0z8UzFOy2]{Tidal Wave}'
+      weight: 64
+    - value: '@UUID[Item.RJSCEH1GQF3QEUAo]{Tiny Servant}'
+      weight: 64
+    - value: '@UUID[Item.wuuimQUseKFjMmQA]{Tongues}'
+      weight: 64
+    - value: '@UUID[Item.i5FDp99ftF563X5O]{Vampiric Touch}'
+      weight: 64
+    - value: '@UUID[Item.Rf44AMnkCiD5WqBq]{Wall of Sand}'
+      weight: 64
+    - value: '@UUID[Item.4yG76ZZGAYSYBufQ]{Wall of Water}'
+      weight: 64
+    - value: '@UUID[Item.PuTnOSup6f25JOSU]{Water Breathing}'
+      weight: 64
+    - value: '@UUID[Item.xksQC36f5BB31Izy]{Water Walk}'
+      weight: 64
+    - value: '@UUID[Item.55DNxDqR6Be7BHIe]{Wind Wall}'
+      weight: 64
+    - value: '@UUID[Item.e7bg9G9cFngyHApJ]{Accelerate}'
+      weight: 64
+    - value: '@UUID[Item.YhxNCVg0oYKRVyHC]{Alone}'
+      weight: 64
+    - value: '@UUID[Item.G4W28naYKG1gYIhw]{Anticipate Arcana}'
+      weight: 64
+    - value: '@UUID[Item.A8R4aVChdoWUV9aK]{Aspect of the Serpent}'
+      weight: 64
+    - value: '@UUID[Item.W18dwqCi8AOgEtwo]{Aura of Listlessness}'
+      weight: 64
+    - value: '@UUID[Item.FgP4Gle3olIpk2C6]{Aura of Protection or Destruction}'
+      weight: 64
+    - value: '@UUID[Item.SNtCqTuOnVPtqaRa]{Blade of Wrath}'
+      weight: 64
+    - value: '@UUID[Item.fUYW3GlFysI0meYR]{Blood Armor}'
+      weight: 64
+    - value: '@UUID[Item.vYLaDIV9eY2SqKd5]{Blood Offering}'
+      weight: 64
+    - value: '@UUID[Item.L83zThPINZMuiKlG]{Bolstering Brew}'
+      weight: 64
+    - value: '@UUID[Item.blS3ByS2Z9NmWE3g]{Bones of Stone}'
+      weight: 64
+    - value: '@UUID[Item.Zji7suJEDakq1r3V]{Booster Shot}'
+      weight: 64
+    - value: '@UUID[Item.OXDOQgIDaNb8JtYd]{Breeze Compass}'
+      weight: 64
+    - value: '@UUID[Item.UkWksoIonECJvyIE]{Calm of the Storm}'
+      weight: 64
+    - value: '@UUID[Item.ppWcRVIvsFIM60c3]{Catch the Breath}'
+      weight: 64
+    - value: '@UUID[Item.lTuVgHWjn8v2RLjj]{Chains of Perdition}'
+      weight: 64
+    - value: '@UUID[Item.OD9pCpjzwuiVXWQ8]{Chilling Words}'
+      weight: 64
+    - value: '@UUID[Item.xUErJao0x5mjqQHi]{Closing In}'
+      weight: 64
+    - value: '@UUID[Item.uOgqsM9RBzYfors8]{Command Undead}'
+      weight: 64
+    - value: '@UUID[Item.pZ467neMIdSDneft]{Compelled Movement}'
+      weight: 64
+    - value: '@UUID[Item.fOM4kcJgeErbK9SP]{Compelling Fate}'
+      weight: 64
+    - value: '@UUID[Item.WAOqY84FXdhqLvmk]{Confound Senses}'
+      weight: 64
+    - value: '@UUID[Item.yyTxs9f46gm7wULC]{Conjure Undead}'
+      weight: 64
+    - value: '@UUID[Item.mFhYIckBkO0lTQsT]{Curse of Hostility}'
+      weight: 64
+    - value: '@UUID[Item.g0Yo7OqSMUF8h6wf]{Curse of Incompetence}'
+      weight: 64
+    - value: '@UUID[Item.uuTHtt4ng3YiqMFu]{Cynophobia}'
+      weight: 64
+    - value: '@UUID[Item.pMK3IARgMieWgtlL]{Dark Heraldry}'
+      weight: 64
+    - value: '@UUID[Item.40lZhQIsOFPG5FnY]{Deep Focus}'
+      weight: 64
+    - value: '@UUID[Item.cWXI0CxioECwDHU0]{Defensive Quills}'
+      weight: 64
+    - value: '@UUID[Item.RXCiwTxIfYdkhW9r]{Delayed Healing}'
+      weight: 64
+    - value: '@UUID[Item.jXW5zqGaUgwmLVoJ]{Demon Within}'
+      weight: 64
+    - value: '@UUID[Item.fMu5QSZ1wK6L0Sn4]{Draconic Majesty}'
+      weight: 64
+    - value: '@UUID[Item.fNthqyM5uNpn51qt]{Dragon''s Pride}'
+      weight: 64
+    - value: '@UUID[Item.3WxdejZmck9JWecH]{Drown}'
+      weight: 64
+    - value: '@UUID[Item.uQ3Xz40z3CHytbWi]{Dryad''s Kiss}'
+      weight: 64
+    - value: '@UUID[Item.k0QpA52xrD9YzSl8]{Ears of the Bat}'
+      weight: 64
+    - value: '@UUID[Item.aepRbre7whIHRR9V]{Entropic Damage Field}'
+      weight: 64
+    - value: '@UUID[Item.r3AUutJA7BiRIcxI]{Flesh to Paper}'
+      weight: 64
+    - value: '@UUID[Item.iyILgLvjwzo0lcjg]{Freeze Blood}'
+      weight: 64
+    - value: '@UUID[Item.690tTaDezIyPF2BR]{Freezing Fog}'
+      weight: 64
+    - value: '@UUID[Item.ac710CPwPNL8S5qI]{Frozen Razors}'
+      weight: 64
+    - value: '@UUID[Item.ou7A35IQH9Co1CX5]{Gloomwrought Barrier}'
+      weight: 64
+    - value: '@UUID[Item.28ShhdGF8owQTKKs]{Gluey Globule}'
+      weight: 64
+    - value: '@UUID[Item.pFI1ToQRcJUxn2zd]{Going in Circles}'
+      weight: 64
+    - value: '@UUID[Item.CUwGBob4MTcL3Pcy]{Hedren''s Birds of Clay}'
+      weight: 64
+    - value: '@UUID[Item.lEkOSo0NY7JJntIk]{Hematomancy}'
+      weight: 64
+    - value: '@UUID[Item.yJFEN7QVvPYYSfpS]{Hero''s Steel}'
+      weight: 64
+    - value: '@UUID[Item.Ga12yth8F5vg7IKn]{Holy Vow}'
+      weight: 64
+    - value: '@UUID[Item.QZ0AJH6CqHO9q2Hi]{Ice Burn}'
+      weight: 64
+    - value: '@UUID[Item.cZH7YRa5N7HAO8pT]{Illusory Trap}'
+      weight: 64
+    - value: '@UUID[Item.Tb4nTFfYH3fSFSE7]{Impending Ally}'
+      weight: 64
+    - value: '@UUID[Item.524Scro4cp4vNhcb]{Innocuous Aspect}'
+      weight: 64
+    - value: '@UUID[Item.NfGYicFl33IsHnkX]{Invested Champion}'
+      weight: 64
+    - value: '@UUID[Item.teWctY3ocP20b8zm]{Ire of the Mountain}'
+      weight: 64
+    - value: '@UUID[Item.QLqrlYDo5e3b1MDW]{Iron Mind}'
+      weight: 64
+    - value: '@UUID[Item.DJX2cwdpMTa1Hj1g]{Jeweled Fissure}'
+      weight: 64
+    - value: '@UUID[Item.89ubYkoU9B5iGnOR]{Lance of the Sun God}'
+      weight: 64
+    - value: '@UUID[Item.Yr20gqtyOmUDXI0M]{Laugh in the Face of Fear}'
+      weight: 64
+    - value: '@UUID[Item.u5vdwr7rTfUWB6gP]{Legion of Rabid Squirrels}'
+      weight: 64
+    - value: '@UUID[Item.4sFktK7a4bR3vjsx]{Life from Death}'
+      weight: 64
+    - value: '@UUID[Item.6R2NZlN9q6H5RVgW]{Life Sense}'
+      weight: 64
+    - value: '@UUID[Item.9gBdlZEZkg9eueDu]{Mass Hobble Mount}'
+      weight: 64
+    - value: '@UUID[Item.2kU24OT8YjcHVv3y]{Mind Exchange}'
+      weight: 64
+    - value: '@UUID[Item.NBYIvSQFvnFXblkB]{Mire}'
+      weight: 64
+    - value: '@UUID[Item.WOutKyfoBDw1X0fS]{Monstrous Empathy}'
+      weight: 64
+    - value: '@UUID[Item.Z6IP2GTgWYMaFYtA]{Mortal Insight}'
+      weight: 64
+    - value: '@UUID[Item.OzYPN91akArczoKH]{Nest of Infernal Vipers}'
+      weight: 64
+    - value: '@UUID[Item.GTVumnPoC09d8AWg]{Nightfall}'
+      weight: 64
+    - value: '@UUID[Item.rKv6NzZEROXY60DR]{Opportunistic Foresight}'
+      weight: 64
+    - value: '@UUID[Item.o6GvuJurKMFjLFAq]{Outflanking Boon}'
+      weight: 64
+    - value: '@UUID[Item.gJe2WJFmnPD0mT9g]{Phantom Dragon}'
+      weight: 64
+    - value: '@UUID[Item.wfYHNrFOS11YE7Dd]{Phase Bolt}'
+      weight: 64
+    - value: '@UUID[Item.rEO0IqUkKfjB7nFV]{Portal Jaunt}'
+      weight: 64
+    - value: '@UUID[Item.1clb3DE1TvBikd9Z]{Potency of the Pack}'
+      weight: 64
+    - value: '@UUID[Item.yTqXBQKB1jmcjj4k]{Protective Ice}'
+      weight: 64
+    - value: '@UUID[Item.7LxEgXjP1bpi9loi]{Protective Nimbus}'
+      weight: 64
+    - value: '@UUID[Item.linJzEerniih6Nam]{Quench}'
+      weight: 64
+    - value: '@UUID[Item.Ay6lAjRPllhbdFYe]{Reaver Spirit}'
+      weight: 64
+    - value: '@UUID[Item.yfewCgedBCRpWRka]{Remove Scent}'
+      weight: 64
+    - value: '@UUID[Item.nrOtWHQ3n2wiZlDK]{Riptide}'
+      weight: 64
+    - value: '@UUID[Item.mSGSTF3HZT2ENDRo]{Rune of Imprisonment}'
+      weight: 64
+    - value: '@UUID[Item.P2tyn5V0FiQm4jDa]{Salt Lash}'
+      weight: 64
+    - value: '@UUID[Item.TP3QKfqXNf0XPgF8]{Shield of Starlight}'
+      weight: 64
+    - value: '@UUID[Item.NCdraWMkmr4Lh5Nk]{Sidestep Arrow}'
+      weight: 64
+    - value: '@UUID[Item.K2j37uX6iSECzRFd]{Sir Mittinz''s Move Curse}'
+      weight: 64
+    - value: '@UUID[Item.o0l3QyHdXRnDD4Kh]{Sleep of the Deep}'
+      weight: 64
+    - value: '@UUID[Item.2h70VrQ0R2CNV74e]{Soothing Chant}'
+      weight: 64
+    - value: '@UUID[Item.Ha7k8vCJh6sQnFDM]{Soul Borrowing}'
+      weight: 64
+    - value: '@UUID[Item.CNkqU4mPDD6tTOhn]{Spiteful Weapon}'
+      weight: 64
+    - value: '@UUID[Item.L1O49kDJJ2qus5ZM]{Steal Warmth}'
+      weight: 64
+    - value: '@UUID[Item.m8OUEk8UGt1hmZUt]{Sting of the Scorpion Goddess}'
+      weight: 64
+    - value: '@UUID[Item.P4yEShoEs9louP6o]{Storm God''s Doom}'
+      weight: 64
+    - value: '@UUID[Item.LBTxSvMcNeKIlTem]{Sudden Dawn}'
+      weight: 64
+    - value: '@UUID[Item.gM01T8ZmpWU8wkGI]{Surge Dampener}'
+      weight: 64
+    - value: '@UUID[Item.WhRiLNdLR5Ow4Cof]{Targeting Foreknowledge}'
+      weight: 64
+    - value: '@UUID[Item.KILipFFmVXohgcFc]{Terrifying Lash}'
+      weight: 64
+    - value: '@UUID[Item.CQA1vh3XDiQ13uiX]{Thousand Darts}'
+      weight: 64
+    - value: '@UUID[Item.c48KtGtkxR8B4TLZ]{Throes of Ecstasy}'
+      weight: 64
+    - value: '@UUID[Item.yXzCUWgSvlNgrrOq]{Thunderclap}'
+      weight: 64
+    - value: '@UUID[Item.3WBCtDBbRhRZeXPo]{Thunderous Wave}'
+      weight: 64
+    - value: '@UUID[Item.ju8lQxU55B4OMtfF]{Tongue of Sand}'
+      weight: 64
+    - value: '@UUID[Item.rmMrmhXbo48a2w4l]{Touch of the Unliving}'
+      weight: 64
+    - value: '@UUID[Item.hydyWxJ2nOFjJXRv]{Tracer}'
+      weight: 64
+    - value: '@UUID[Item.GfOPSQjz2fCbmIdo]{Tracking Beacon}'
+      weight: 64
+    - value: '@UUID[Item.eS84yvkIF8walCT4]{Unseen Strangler}'
+      weight: 64
+    - value: '@UUID[Item.lnWuonxa7sF5YeCX]{Vital Mark}'
+      weight: 64
+    - value: '@UUID[Item.rP4bXLSoihN9CoFY]{Wave of Corruption}'
+      weight: 64
+    - value: '@UUID[Item.2usBZUAyB0zeLBkJ]{Apparition’s Invitation}'
+      weight: 64
+    - value: '@UUID[Item.yv5RVjnNrr7hIXYN]{Arrow Door}'
+      weight: 64
+    - value: '@UUID[Item.6K8mABiT2btMdROS]{Balo’s Bolster Dead}'
+      weight: 64
+    - value: '@UUID[Item.BOZYITRN6WzapLry]{Bartholomew’s Elemental Arc}'
+      weight: 64
+    - value: '@UUID[Item.lhIcLmhavQ2cxQI1]{Beast Essence}'
+      weight: 64
+    - value: '@UUID[Item.L0nkFgzERcU1ByIp]{Bitter Wind}'
+      weight: 64
+    - value: '@UUID[Item.WDhqNxOop8ryk4Ee]{Burst of Pollen}'
+      weight: 64
+    - value: '@UUID[Item.TvbKldyjIlXIu4xE]{Bury the Dead}'
+      weight: 64
+    - value: '@UUID[Item.qWXJ8GE58tsE1mpJ]{Busy Bee}'
+      weight: 64
+    - value: '@UUID[Item.jCIEiWZyvPzNm99G]{Call Shadow Mastiff}'
+      weight: 64
+    - value: '@UUID[Item.fQsVHbvx5mmA9o6f]{Chains of Justice}'
+      weight: 64
+    - value: '@UUID[Item.ySarIddJi4QbkPhj]{Chaotic Contrition}'
+      weight: 64
+    - value: '@UUID[Item.wuQJ8MWQAkVGckDj]{Chorus of Thunder}'
+      weight: 64
+    - value: '@UUID[Item.JdZU5WpuBfygGhyz]{Cloak of Vermin}'
+      weight: 64
+    - value: '@UUID[Item.WXenAXCtNgRDsxpx]{Confound Senses}'
+      weight: 64
+    - value: '@UUID[Item.7aqrJ94jyEiu4Ckc]{Critical Exchange}'
+      weight: 64
+    - value: '@UUID[Item.bqj6wQ5XUloZTYIG]{Daisy Regrowth}'
+      weight: 64
+    - value: '@UUID[Item.TW9ELVbpR8Ri5exL]{Damage Echo}'
+      weight: 64
+    - value: '@UUID[Item.ur2V4XC8Kz4MoBZY]{Densini’s Radiance}'
+      weight: 64
+    - value: '@UUID[Item.6sPqC5JtEYjqqZ4G]{Dimensional Shove}'
+      weight: 64
+    - value: '@UUID[Item.L5b5zZnxLYlqjOx4]{Diversion Door}'
+      weight: 64
+    - value: '@UUID[Item.MxyyJUWmefuTOfM1]{Dome of Spectral Blows}'
+      weight: 64
+    - value: '@UUID[Item.dVQbmiBah3pF2tjm]{Doom of Blue Crystal}'
+      weight: 64
+    - value: '@UUID[Item.h1mI5LyPDibqRykj]{Doom of Dancing Blades}'
+      weight: 64
+    - value: '@UUID[Item.dzbLxwfW5vxKSXQh]{Doom of Disenchantment}'
+      weight: 64
+    - value: '@UUID[Item.NehcmOfj3LTIXH3j]{Doom of Laughter}'
+      weight: 64
+    - value: '@UUID[Item.XXeCkEizQwBUY9ii]{Dream Canopy}'
+      weight: 64
+    - value: '@UUID[Item.PPPLev0uuD2MtPju]{Dreamstride}'
+      weight: 64
+    - value: '@UUID[Item.yOR10PTYToyxFTEm]{Earth Glide}'
+      weight: 64
+    - value: '@UUID[Item.63mD2GtrCFvOQZUd]{Een’s Shredding Aura}'
+      weight: 64
+    - value: '@UUID[Item.BntgmiS4NfpDFZsL]{Elemental Exchange}'
+      weight: 64
+    - value: '@UUID[Item.GCsxgJCvFanfDRp6]{Everan’s Scorching Serpents}'
+      weight: 64
+    - value: '@UUID[Item.VqyIQkH8KQJYvKPa]{Faerie Toast}'
+      weight: 64
+    - value: '@UUID[Item.njhVuFL2pgzbDcRw]{Flames United}'
+      weight: 64
+    - value: '@UUID[Item.c4CEq6pj62i0oHQJ]{Flight of Ideas}'
+      weight: 64
+    - value: '@UUID[Item.ReaDCjHB7hLi7oDS]{Flittering Eyes}'
+      weight: 64
+    - value: '@UUID[Item.E1DfrJsEln2WJx4N]{Forceful Repurposing}'
+      weight: 64
+    - value: '@UUID[Item.stol9jCJPJqJW4wh]{Glimpse the End}'
+      weight: 64
+    - value: '@UUID[Item.19bR96TCZfVVyNo8]{Grim Shadows}'
+      weight: 64
+    - value: '@UUID[Item.1G0l1H1ehY9mS2AD]{Harmful Exchange}'
+      weight: 64
+    - value: '@UUID[Item.1DbA1bwHK6ldiCKf]{Healing Glyph}'
+      weight: 64
+    - value: '@UUID[Item.W3fUHGq6VmP6QVLF]{Hellfire Blitz}'
+      weight: 64
+    - value: '@UUID[Item.AWMgvwiKBZGXwkYZ]{Immolating Geist}'
+      weight: 64
+    - value: '@UUID[Item.FWNsT8JA6KwEmOsm]{Impaling Glory}'
+      weight: 64
+    - value: '@UUID[Item.P4csqC9ziOpd9BUo]{Kel’s Antlion Trap}'
+      weight: 64
+    - value: '@UUID[Item.l8bKNZZ78iJBMs0H]{Legion}'
+      weight: 64
+    - value: '@UUID[Item.789Lhq0xqtaN7M7z]{Lesser Maze}'
+      weight: 64
+    - value: '@UUID[Item.hb35ixHFX9bI9lVN]{Lost}'
+      weight: 64
+    - value: '@UUID[Item.CprrCZnFH5pJPQgg]{Magic Dampening Field}'
+      weight: 64
+    - value: '@UUID[Item.Py1KoweQ1qCqpcvt]{Miniature Hurricane}'
+      weight: 64
+    - value: '@UUID[Item.cW7ZNmrfOpffViIB]{Nimble Dance}'
+      weight: 64
+    - value: '@UUID[Item.pyjq9EpeiRLwp4V3]{Obviating Shadow}'
+      weight: 64
+    - value: '@UUID[Item.TqMVCrWLz4on64Fm]{Orros Mark of Fate}'
+      weight: 64
+    - value: '@UUID[Item.EeC8DTUlofR5j1X0]{Plague Walk}'
+      weight: 64
+    - value: '@UUID[Item.sqnOgOsdKuMXNO9P]{Power Word Fling}'
+      weight: 64
+    - value: '@UUID[Item.MjEr6r2MK6hDPc2Z]{Purge}'
+      weight: 64
+    - value: '@UUID[Item.AslgC7ULDqLsBHTx]{Radiant Shield}'
+      weight: 64
+    - value: '@UUID[Item.13bVypiLxLMDsg1d]{Raise Ghost}'
+      weight: 64
+    - value: '@UUID[Item.DyiNIcVOLL9CL3Q6]{Rat Plague}'
+      weight: 64
+    - value: '@UUID[Item.CuVzjipiE3FjWrSE]{Scattershot}'
+      weight: 64
+    - value: '@UUID[Item.m6wKriPy8saCXOGb]{Seal}'
+      weight: 64
+    - value: '@UUID[Item.1oVGOze29aUYNVTZ]{Sear}'
+      weight: 64
+    - value: '@UUID[Item.ky1DCQEgw6VeITyA]{Seeping Death}'
+      weight: 64
+    - value: '@UUID[Item.ZHEyHqcsKVC0ix8s]{Shadow Portal}'
+      weight: 64
+    - value: '@UUID[Item.idX7HgkpGrnSceqo]{Shadow Tendrils}'
+      weight: 64
+    - value: '@UUID[Item.7kJvlcOAyFNdRWXM]{Shadow Trove}'
+      weight: 64
+    - value: '@UUID[Item.vcqJTOMMgaradSUe]{Shifting Sand Form}'
+      weight: 64
+    - value: '@UUID[Item.xis2mMxIHLpWNpgw]{Slow-Burn Fireball}'
+      weight: 64
+    - value: '@UUID[Item.kb3xaeb0kPvbbSJU]{Song of the Forest}'
+      weight: 64
+    - value: '@UUID[Item.NGiPn2zlKWPhcFqe]{Spoil Food and Water}'
+      weight: 64
+    - value: '@UUID[Item.IG2xe9Hu1j6zNiyN]{Unravel Ghost}'
+      weight: 64
+    - value: '@UUID[Item.2Kx1iBehuy1vvZwH]{Vanish Within}'
+      weight: 64
+    - value: '@UUID[Item.cHzsYskxtCdL9ZOj]{Venomous Thoughts}'
+      weight: 64
+    - value: '@UUID[Item.bWVtrnYVR4W6rDmS]{Visions of Home}'
+      weight: 64
+    - value: '@UUID[Item.cspB8eZDie7cl3Kt]{Vortex of Steam}'
+      weight: 64
+    - value: '@UUID[Item.kq9WyctFuzpVOcVO]{Wings of Retribution}'
+      weight: 64
+    - value: '@UUID[Item.nOHnBNkS2jFsFTHv]{Woodland Walk}'
+      weight: 64
+    - value: '@UUID[Item.Yhs02JlxNN5B1ZaX]{Word of Warning}'
+      weight: 64
+    - value: '@UUID[Item.JjhctC0RwRiCp4d1]{Althea''s Travel Tent}'
+      weight: 128
+    - value: '@UUID[Item.Fxjvhp8WDHE5v5Fx]{Animal Spy}'
+      weight: 128
+    - value: '@UUID[Item.pYUGonLDpfAhsC01]{Animate Ghoul}'
+      weight: 128
+    - value: '@UUID[Item.tQpVJbMtZbv5QDlN]{Anticipate Attack}'
+      weight: 128
+    - value: '@UUID[Item.AviqadvVNxRQx5Lr]{As You Were}'
+      weight: 128
+    - value: '@UUID[Item.jiEA0UbS5q7t9cSJ]{Ashen Memories}'
+      weight: 128
+    - value: '@UUID[Item.rPyaC7Q5QSwkOGi3]{Aspect of the Ape}'
+      weight: 128
+    - value: '@UUID[Item.yUyH1FkLfixT8DJy]{Aspect of the Ram}'
+      weight: 128
+    - value: '@UUID[Item.TTWtAPS8hj4blvPx]{Bad Timing}'
+      weight: 128
+    - value: '@UUID[Item.n1m4Kyovpsoe8gpN]{Batsense}'
+      weight: 128
+    - value: '@UUID[Item.L2iEtJ0Vc75TnrIO]{Beguiling Bet}'
+      weight: 128
+    - value: '@UUID[Item.0vIIeiPeJJWHR3FC]{Bestial Fury}'
+      weight: 128
+    - value: '@UUID[Item.bWhrBWtpxopTQOsF]{Bitter Chains}'
+      weight: 128
+    - value: '@UUID[Item.eYq7ELzmm3g0UFlE]{Black Swan Storm}'
+      weight: 128
+    - value: '@UUID[Item.rJnql2YLlMXXqjFy]{Bleating Call}'
+      weight: 128
+    - value: '@UUID[Item.JsjfhSjsDZlo3uQb]{Blessed Halo}'
+      weight: 128
+    - value: '@UUID[Item.hFp6Hp2FFj5iKHO1]{Blessed Rest}'
+      weight: 128
+    - value: '@UUID[Item.2KZgCONOZwcukRku]{Blood Lure}'
+      weight: 128
+    - value: '@UUID[Item.l2Ym2zGxGXGKggVx]{Bloodshot}'
+      weight: 128
+    - value: '@UUID[Item.tobgJooliDyvPb4Y]{Boiling Oil}'
+      weight: 128
+    - value: '@UUID[Item.OnTDL2Bv8yofAvHb]{Boulder Toss}'
+      weight: 128
+    - value: '@UUID[Item.5BCFT4qc1FcpjOFh]{By the Light of the Moon}'
+      weight: 128
+    - value: '@UUID[Item.zdmotw7VU2QceA7W]{Carmello-Volta''s Irksome Preserves}'
+      weight: 128
+    - value: '@UUID[Item.JiJIoGobvBv27m3x]{Caustic Blood}'
+      weight: 128
+    - value: '@UUID[Item.ndryqR92MzPsIdoT]{Champion''s Weapon}'
+      weight: 128
+    - value: '@UUID[Item.ikocJdbFDd0dsEwH]{Chaotic Vitality}'
+      weight: 128
+    - value: '@UUID[Item.UVAlgCnpkrFcW5CD]{Cloak of Fiendish Menace}'
+      weight: 128
+    - value: '@UUID[Item.RGIingx7BWWXkSxT]{Comprehend Wild Shape}'
+      weight: 128
+    - value: '@UUID[Item.IJhxmp0cIH2uVLpl]{Conjure Mantelet}'
+      weight: 128
+    - value: '@UUID[Item.5i63MUPibo7CU2Zo]{Conjure Scarab Swarm}'
+      weight: 128
+    - value: '@UUID[Item.UdinOHm152kIveKi]{Conjure Spectral Dead}'
+      weight: 128
+    - value: '@UUID[Item.rXOff4n0x4DUvJKz]{Convoluted Dictum}'
+      weight: 128
+    - value: '@UUID[Item.RsUg1oSfgLgFGCxQ]{Creeping Ice}'
+      weight: 128
+    - value: '@UUID[Item.sSvMrLF1ivqZwtcH]{Crushing Trample}'
+      weight: 128
+    - value: '@UUID[Item.6gUfP7iYzsbyuzKz]{Daggerhawk}'
+      weight: 128
+    - value: '@UUID[Item.geTPlY3ZtQQfvwGv]{Dead Walking}'
+      weight: 128
+    - value: '@UUID[Item.xqFZBI5tWwpYavif]{Decelerate}'
+      weight: 128
+    - value: '@UUID[Item.spt7Hwofpg9tNInS]{Delay Potion}'
+      weight: 128
+    - value: '@UUID[Item.Ys6BMMFnqhu4mV6y]{Detect Dragons}'
+      weight: 128
+    - value: '@UUID[Item.ctEFHzor5fc2wcxa]{Discern Weakness}'
+      weight: 128
+    - value: '@UUID[Item.CCSKQ90wdDBqIrAv]{Distracting Divination}'
+      weight: 128
+    - value: '@UUID[Item.DemVzpPmV2VGW4SQ]{Distraction Cascade}'
+      weight: 128
+    - value: '@UUID[Item.DDdYC59WXFEUEGcF]{Dome of Silence}'
+      weight: 128
+    - value: '@UUID[Item.8ZUN2nr5kMagywCE]{Ectoplasm}'
+      weight: 128
+    - value: '@UUID[Item.D1Ie1mlERbOpAx6D]{Elemental Horns}'
+      weight: 128
+    - value: '@UUID[Item.rSd4Bp8JiTq7hzgi]{Elemental Twist}'
+      weight: 128
+    - value: '@UUID[Item.2RzmiuIEe6jKmsCs]{Enhance Familiar}'
+      weight: 128
+    - value: '@UUID[Item.KGysNAigDnc7trck]{Enhance Greed}'
+      weight: 128
+    - value: '@UUID[Item.BDlpA641cJnYQy2x]{Exude Acid}'
+      weight: 128
+    - value: '@UUID[Item.j1gFrITjco1l3Ej3]{Feather Travel}'
+      weight: 128
+    - value: '@UUID[Item.htU2TIktEiuUB1z6]{Fire Darts}'
+      weight: 128
+    - value: '@UUID[Item.wPHvTQ0TBjBzkvb1]{Frenzied Bolt}'
+      weight: 128
+    - value: '@UUID[Item.bHymRcaqEUDnJwLG]{Furious Hooves}'
+      weight: 128
+    - value: '@UUID[Item.UG2XzUEzTpvWY2vS]{Gear Barrage}'
+      weight: 128
+    - value: '@UUID[Item.xB3ww8hvkEIsyGgR]{Gift of Luck}'
+      weight: 128
+    - value: '@UUID[Item.oY6iqsNa1XDSXzAh]{Gift of Resilience}'
+      weight: 128
+    - value: '@UUID[Item.z5pVbk0vomGMTxNC]{Glyph of Shifting}'
+      weight: 128
+    - value: '@UUID[Item.9swFjPlS4lARAJ0h]{Grain of Truth}'
+      weight: 128
+    - value: '@UUID[Item.jspCdy4vyMuROQVm]{Greater Analyze Device}'
+      weight: 128
+    - value: '@UUID[Item.FNDgGOzNkxWG6gVf]{Grudge Match}'
+      weight: 128
+    - value: '@UUID[Item.VAIfQTZrgedqoDId]{Heartache}'
+      weight: 128
+    - value: '@UUID[Item.4hRbccZYJ2qpnwkH]{Heartstop}'
+      weight: 128
+    - value: '@UUID[Item.fx1PoMeObDDF3V0I]{Heartstrike}'
+      weight: 128
+    - value: '@UUID[Item.365ZMBnhYnFvxOBU]{Holy Warding}'
+      weight: 128
+    - value: '@UUID[Item.uL8WgPcjJjDe7W3y]{Hunter''s Cunning}'
+      weight: 128
+    - value: '@UUID[Item.AuM1eHRDWnRWF9QW]{Hypnotic Missive}'
+      weight: 128
+    - value: '@UUID[Item.hxlSADlgp3npUeCx]{Ice Hammer}'
+      weight: 128
+    - value: '@UUID[Item.4oYvJYLIPoTonHbf]{Indecision}'
+      weight: 128
+    - value: '@UUID[Item.X7PzrisRDdFDmk6f]{Instant Snare}'
+      weight: 128
+    - value: '@UUID[Item.5hCjJEnqTOZPGg9t]{Intensify Light}'
+      weight: 128
+    - value: '@UUID[Item.MXYgeZ4T9FLR0QbC]{Iron Stomach}'
+      weight: 128
+    - value: '@UUID[Item.SiL8tXOSfVBnDeUG]{Kavelin''s Instant Aerosol}'
+      weight: 128
+    - value: '@UUID[Item.o52rYD4sFEfDdo8V]{Lacerate}'
+      weight: 128
+    - value: '@UUID[Item.W4qM2gZEhxuWwIjK]{Lair Sense}'
+      weight: 128
+    - value: '@UUID[Item.LmK0bdl4FR08U1kz]{Lock Armor}'
+      weight: 128
+    - value: '@UUID[Item.ymFVj1HEBlF76n0W]{Mantle of the Brave}'
+      weight: 128
+    - value: '@UUID[Item.qrjgiO6WaAre0DPz]{Mark Prey}'
+      weight: 128
+    - value: '@UUID[Item.nhD75Mc2AYaXk7db]{Mephitic Croak}'
+      weight: 128
+    - value: '@UUID[Item.wb3XF8UcibCarkXb]{Mist of Wonders}'
+      weight: 128
+    - value: '@UUID[Item.GderdCU9CvHDenlI]{Nip at the Heels}'
+      weight: 128
+    - value: '@UUID[Item.IChYffQxEHwdzYPZ]{Orb of Light}'
+      weight: 128
+    - value: '@UUID[Item.Eluwkh7ehz2CLQhK]{Phantom Light}'
+      weight: 128
+    - value: '@UUID[Item.HFRblL1RxqbnDR5j]{Poisoned Volley}'
+      weight: 128
+    - value: '@UUID[Item.ZTA2sUWNPxOhnrH9]{Power Word Kneel}'
+      weight: 128
+    - value: '@UUID[Item.RUnvHFWI8tg9T5go]{Read Object}'
+      weight: 128
+    - value: '@UUID[Item.fbf2chhndnRuY1Rh]{Reverberate}'
+      weight: 128
+    - value: '@UUID[Item.LIWWcinizte34gEE]{Revive Beast}'
+      weight: 128
+    - value: '@UUID[Item.MMtTf6ZQ4mhe4Dyb]{Rolling Thunder}'
+      weight: 128
+    - value: '@UUID[Item.BsIFHOnbctlXsH7l]{Rotting Corpse}'
+      weight: 128
+    - value: '@UUID[Item.zT8UlZi6HanEUC7N]{Sculpt Snow}'
+      weight: 128
+    - value: '@UUID[Item.701Jc0U678uvt2Db]{Shade}'
+      weight: 128
+    - value: '@UUID[Item.X45mH9FRElNwQhKu]{Shared Sacrifice}'
+      weight: 128
+    - value: '@UUID[Item.kwS6nT6cpoW0hV88]{Sheen of Ice}'
+      weight: 128
+    - value: '@UUID[Item.djplZrozWE3aDlT5]{Shifting the Odds}'
+      weight: 128
+    - value: '@UUID[Item.5JJ0oRVtDklWSXLR]{Snap the Leash}'
+      weight: 128
+    - value: '@UUID[Item.GPiWuOtMjAfC7oQY]{Snow Fort}'
+      weight: 128
+    - value: '@UUID[Item.McJQmZVVdmFX2zIC]{Solitary Fireball}'
+      weight: 128
+    - value: '@UUID[Item.nAEpqoyLM6NUjZ2X]{Spin}'
+      weight: 128
+    - value: '@UUID[Item.2Z1h5ywphrlK90kA]{Spy My Shadow}'
+      weight: 128
+    - value: '@UUID[Item.OfnsNRq06y5SxB8Q]{Thorn Cage}'
+      weight: 128
+    - value: '@UUID[Item.svX49M655JSwcswV]{Thunderous Stampede}'
+      weight: 128
+    - value: '@UUID[Item.SHhW4IfJpr86F4Ft]{Time Step}'
+      weight: 128
+    - value: '@UUID[Item.dWkDgmBi0lOc6qus]{Timely Distraction}'
+      weight: 128
+    - value: '@UUID[Item.69AjAa2VnOEgCUu4]{Treasure Chasm}'
+      weight: 128
+    - value: '@UUID[Item.04R0erelPu3Oc6JC]{Tree Running}'
+      weight: 128
+    - value: '@UUID[Item.WQYiKAtv3o8xppg2]{Trench}'
+      weight: 128
+    - value: '@UUID[Item.3L4oeGqduifNvkum]{Unholy Defiance}'
+      weight: 128
+    - value: '@UUID[Item.vmAvMxdr6HmpbCDI]{Vomit Tentacles}'
+      weight: 128
+    - value: '@UUID[Item.B6iVLC3hZX1YFvcH]{Warning Shout}'
+      weight: 128
+    - value: '@UUID[Item.R45TQYXGUdHLYHh5]{Weiler''s Ward}'
+      weight: 128
+    - value: '@UUID[Item.5eaf6yLAqnNZYjU3]{Wresting Wind}'
+      weight: 128
+    - value: '@UUID[Item.bbipMpUKXOKUp1X6]{Aqueous Arena}'
+      weight: 128
+    - value: '@UUID[Item.h1Czl9NXjg71PVW6]{Baba’s Pincushion}'
+      weight: 128
+    - value: '@UUID[Item.7CoOsggnZ77lAWak]{Bearing Barrage}'
+      weight: 128
+    - value: '@UUID[Item.jvZsyGevxIZy96hX]{Bedazzling Charm}'
+      weight: 128
+    - value: '@UUID[Item.WQ2Cp3Uh9uSdRJ80]{Break It Down}'
+      weight: 128
+    - value: '@UUID[Item.hQX4g8rJgchq8rR3]{Breath of Separation}'
+      weight: 128
+    - value: '@UUID[Item.iOhwFyUCo7lycZ61]{Breeze Walker}'
+      weight: 128
+    - value: '@UUID[Item.4NFScdLlk2h85uZi]{Brilliant Harrier}'
+      weight: 128
+    - value: '@UUID[Item.BgBLVfqiChnzekpf]{Bromn’s Earthen Escape}'
+      weight: 128
+    - value: '@UUID[Item.UGDuvbBdyFeGddDT]{Bubble Barrier}'
+      weight: 128
+    - value: '@UUID[Item.Ogw2Ex8eOCUB6bsh]{Buffeting Wings}'
+      weight: 128
+    - value: '@UUID[Item.ZL4JSZ2WZkbiaM6Z]{By the Light of the Moon}'
+      weight: 128
+    - value: '@UUID[Item.dHEI4ZvYoVFF1vXy]{Charm of Great Fondness}'
+      weight: 128
+    - value: '@UUID[Item.rzeja0OtSD4TynQZ]{Chergui’s Swift Blessing}'
+      weight: 128
+    - value: '@UUID[Item.TNfxFFSgfzXS5gsz]{Chittrk’k’s Soul Fire}'
+      weight: 128
+    - value: '@UUID[Item.9KfPbf7vQ4lA9pcL]{Clearing the Field}'
+      weight: 128
+    - value: '@UUID[Item.WVCrAFgze7G1HPNK]{Clinging Shadow}'
+      weight: 128
+    - value: '@UUID[Item.D9ck2ndPRZb1gKSc]{Combust the Dead}'
+      weight: 128
+    - value: '@UUID[Item.EYdPPZnbm5qupEG0]{Conductive Vapors}'
+      weight: 128
+    - value: '@UUID[Item.P3qAfSbWLsbf6M7X]{Conjure Ferryman}'
+      weight: 128
+    - value: '@UUID[Item.68RHAkTNBBhR2WCC]{Conjure Vermin}'
+      weight: 128
+    - value: '@UUID[Item.BRAV18xazrM7xceA]{Contagious Healing}'
+      weight: 128
+    - value: '@UUID[Item.PLszzLol4De7UB2N]{Court the Flame}'
+      weight: 128
+    - value: '@UUID[Item.V4l4sBtzoL6wJsLy]{Dark Path}'
+      weight: 128
+    - value: '@UUID[Item.00cK4ukK9AYMl8QR]{Darkbolt}'
+      weight: 128
+    - value: '@UUID[Item.YUMRcYLUgaX3YvLx]{Discord}'
+      weight: 128
+    - value: '@UUID[Item.wgLw36U8phOCN4NL]{Doom of Consuming Fire}'
+      weight: 128
+    - value: '@UUID[Item.07TIWv7LabtCK5EA]{Doom of Destiny}'
+      weight: 128
+    - value: '@UUID[Item.x1BmoD8HO1LWM4yr]{Doom of the Slippery Rogue}'
+      weight: 128
+    - value: '@UUID[Item.vDoBRBf9F2lFVieP]{Doomed}'
+      weight: 128
+    - value: '@UUID[Item.NHxvHLQBgp3fUj4A]{Drayfn’s Blunted Blade}'
+      weight: 128
+    - value: '@UUID[Item.Lf72gPPb73Uz4Olc]{Fever’s Gift}'
+      weight: 128
+    - value: '@UUID[Item.tRUwWHNP5m1X3oGS]{Galvanize Metal}'
+      weight: 128
+    - value: '@UUID[Item.e2K7viiNfqYJuPM9]{Gift of Ice}'
+      weight: 128
+    - value: '@UUID[Item.pf4bcuojyrzvm7AA]{Gift of the Golden Tongue}'
+      weight: 128
+    - value: '@UUID[Item.ZNy9MpBrjtli1vHU]{Goob’s Inconvenient Gathering}'
+      weight: 128
+    - value: '@UUID[Item.TapHknrYgL2vfqnQ]{Grasp of the Briar}'
+      weight: 128
+    - value: '@UUID[Item.xgRth2R9WKlu7rmo]{Grave Sense}'
+      weight: 128
+    - value: '@UUID[Item.3OUNEreIK7o0DFNw]{Heartfire}'
+      weight: 128
+    - value: '@UUID[Item.HfZuahe0xu3cMiiV]{Heavy Metal}'
+      weight: 128
+    - value: '@UUID[Item.H4Nxv1O6Svd2SQmF]{Helper’s Hands}'
+      weight: 128
+    - value: '@UUID[Item.dNSKMYqaxxYDR2gU]{Hibernation}'
+      weight: 128
+    - value: '@UUID[Item.0riFOF1zLjtkns7C]{Jerilyn’s Cadaverous Uprising}'
+      weight: 128
+    - value: '@UUID[Item.FpiBEgnxblSOdox7]{Krail’s Maggot}'
+      weight: 128
+    - value: '@UUID[Item.Eee1bYWwv0bH3m4e]{Krail’s Rupture}'
+      weight: 128
+    - value: '@UUID[Item.VTZDzrLm5rlb7YrJ]{Leiloch’s Irritating Kazoo}'
+      weight: 128
+    - value: '@UUID[Item.pGPH0w98MCFzCHtY]{Ley Chain}'
+      weight: 128
+    - value: '@UUID[Item.2JVOjo4IMdhB6ur9]{Lightning Rod}'
+      weight: 128
+    - value: '@UUID[Item.4DMXEt55w7l1fAHc]{Magma Spray}'
+      weight: 128
+    - value: '@UUID[Item.WaKqhKMPTYRqu218]{Magnify Weapon}'
+      weight: 128
+    - value: '@UUID[Item.aLmAJ1vjSaVNHSjP]{Marigold Bloom}'
+      weight: 128
+    - value: '@UUID[Item.CAO2U03gaaTlFu4i]{Merchant of Minutes}'
+      weight: 128
+    - value: '@UUID[Item.FNVQFhwoTDmy5ku2]{Negative Image}'
+      weight: 128
+    - value: '@UUID[Item.MblCz9BP5y2tfmcg]{Ominous Winds}'
+      weight: 128
+    - value: '@UUID[Item.T5J6o8eMYpUJzVcc]{Palliative Censure}'
+      weight: 128
+    - value: '@UUID[Item.9DHIPcZ9iotMKNry]{Plaguebearer}'
+      weight: 128
+    - value: '@UUID[Item.Rf2Rcq5s69HK7FAx]{Poisoned Portal}'
+      weight: 128
+    - value: '@UUID[Item.lf3SfyS0fnR8Zt7H]{Poisonous Flesh}'
+      weight: 128
+    - value: '@UUID[Item.NCCIp52DiRHvsbWk]{Power Word Rebound}'
+      weight: 128
+    - value: '@UUID[Item.8IspyoZ3DGhhFr0I]{Power Word Vulnerability}'
+      weight: 128
+    - value: '@UUID[Item.qbG8FCK4y2euodCm]{Prayer of Resolve}'
+      weight: 128
+    - value: '@UUID[Item.AhRjVe1PnbnWIwsz]{Prince’s Pillar}'
+      weight: 128
+    - value: '@UUID[Item.01rTSxhMpFEVUmZD]{Radiant Rosette}'
+      weight: 128
+    - value: '@UUID[Item.qMvHaoNKpNW8Sk1G]{Reaper’s Balm}'
+      weight: 128
+    - value: '@UUID[Item.mr79nQWuNZBq98PT]{Rite of Rain}'
+      weight: 128
+    - value: '@UUID[Item.iijYF0qmrrKiRu3Q]{Rubbery Body}'
+      weight: 128
+    - value: '@UUID[Item.gtM1ixRp5WEUgEb4]{Seeking Fire}'
+      weight: 128
+    - value: '@UUID[Item.sLUFd374juqqPKlv]{Serrated Limbs}'
+      weight: 128
+    - value: '@UUID[Item.Pup4DXoEplSQo0cM]{Shadow Adaptation}'
+      weight: 128
+    - value: '@UUID[Item.wrIB4Z5EcldHQ5DE]{Shadow Puppets}'
+      weight: 128
+    - value: '@UUID[Item.vDq1FA5PlSmjWGks]{Shadow Shield}'
+      weight: 128
+    - value: '@UUID[Item.x2iqaPDqNR6CdOV4]{Shadow Shunt}'
+      weight: 128
+    - value: '@UUID[Item.oDn5hwKhUmmVUXc9]{Shadows Brought to Light}'
+      weight: 128
+    - value: '@UUID[Item.BZx2wWNruL3maVN9]{Shamal’s Grasp}'
+      weight: 128
+    - value: '@UUID[Item.PGWTujtd8LSkaccg]{Shroom of Doom}'
+      weight: 128
+    - value: '@UUID[Item.n8frRVAP7odglGEt]{Slither}'
+      weight: 128
+    - value: '@UUID[Item.3AOaZlDiIyEzhTms]{Solitary Fireball}'
+      weight: 128
+    - value: '@UUID[Item.h84GTMipmSFAcTy4]{Spellhunt Step}'
+      weight: 128
+    - value: '@UUID[Item.yMrI9xvwo8ZXiS4Q]{Spirit Balm}'
+      weight: 128
+    - value: '@UUID[Item.upQQXgDoM3xyWdgO]{Stench of Rot}'
+      weight: 128
+    - value: '@UUID[Item.e4U2JnAF6A6YULP0]{Storm Step}'
+      weight: 128
+    - value: '@UUID[Item.WqeDoQdX33HAy1eC]{Strafe}'
+      weight: 128
+    - value: '@UUID[Item.ayKl8mGOiPVj4fCS]{Surprising Bound}'
+      weight: 128
+    - value: '@UUID[Item.amY16vfFYzsYMxHK]{Templar’s Bellow}'
+      weight: 128
+    - value: '@UUID[Item.6lfL1m38jMi83pQT]{Templar’s Mercy}'
+      weight: 128
+    - value: '@UUID[Item.DVhwOxR7Ho7x2xmC]{Tooth of the Wyrm}'
+      weight: 128
+    - value: '@UUID[Item.nNmRKFuGX138orOT]{Ugly Duckling}'
+      weight: 128
+    - value: '@UUID[Item.lXTJXl3HOYspnHCP]{Undead Syphon}'
+      weight: 128
+    - value: '@UUID[Item.URaT6ix3yWac5Leo]{Utterance}'
+      weight: 128
+    - value: '@UUID[Item.frlSp2gqCwKPoUns]{Vine Trestle}'
+      weight: 128
+    - value: '@UUID[Item.2UGEpAUsIzCk7nYs]{Vision Slip}'
+      weight: 128
+    - value: '@UUID[Item.Aohw9jpeP2HYUUTf]{Well of Frozen Missiles}'
+      weight: 128
+    - value: '@UUID[Item.CZPq7gwYnA2Mk1l7]{Wound Surge}'
+      weight: 128
+    - value: '@UUID[Item.P1EFLuwM3FcBFQuL]{Absorb Elements}'
+      weight: 192
+    - value: '@UUID[Item.xOE1dNUZxu4HRvOd]{Alarm}'
+      weight: 192
+    - value: '@UUID[Item.8JeQVYVMVJb89kMQ]{Animal Friendship}'
+      weight: 192
+    - value: '@UUID[Item.owtYtePrfkNgTPwe]{Armor of Agathys}'
+      weight: 192
+    - value: '@UUID[Item.8gDZJNuasIyfvYpf]{Arms of Hadar}'
+      weight: 192
+    - value: '@UUID[Item.LfI3sjaIbr3ZSNVj]{Bane}'
+      weight: 192
+    - value: '@UUID[Item.douWTHr1dqZwh69C]{Beast Bond}'
+      weight: 192
+    - value: '@UUID[Item.rd54l1WOukOHwaBw]{Bless}'
+      weight: 192
+    - value: '@UUID[Item.olecAJbnfHvNsH1s]{Burning Hands}'
+      weight: 192
+    - value: '@UUID[Item.HH7RWkZ0x4zWUzwa]{Catapult}'
+      weight: 192
+    - value: '@UUID[Item.v8WyMzzuBYD4THlg]{Cause Fear}'
+      weight: 192
+    - value: '@UUID[Item.yQvoZEwrnopMKnDz]{Ceremony}'
+      weight: 192
+    - value: '@UUID[Item.xrnJWEJEXEeTKXot]{Chaos Bolt}'
+      weight: 192
+    - value: '@UUID[Item.USG5NzRE96JGjdNZ]{Charm Person}'
+      weight: 192
+    - value: '@UUID[Item.XcGv9QKEAxnui0af]{Chromatic Orb}'
+      weight: 192
+    - value: '@UUID[Item.NB23Aa8BPdN87syN]{Color Spray}'
+      weight: 192
+    - value: '@UUID[Item.0iHDeOIjC57qqhR5]{Command}'
+      weight: 192
+    - value: '@UUID[Item.Bl41qpmTWMChPcvF]{Compelled Duel}'
+      weight: 192
+    - value: '@UUID[Item.86M00Yuo4FTGPHjP]{Comprehend Languages}'
+      weight: 192
+    - value: '@UUID[Item.zr2RFIusiaVeulFH]{Create or Destroy Water}'
+      weight: 192
+    - value: '@UUID[Item.8IZiLDVESGUKY1jK]{Cure Wounds}'
+      weight: 192
+    - value: '@UUID[Item.ub3VDKFHfeadPL6O]{Detect Evil and Good}'
+      weight: 192
+    - value: '@UUID[Item.HJgILo0W6OKjP2KL]{Detect Magic}'
+      weight: 192
+    - value: '@UUID[Item.qiOaVXMeWeWlcli4]{Detect Poison and Disease}'
+      weight: 192
+    - value: '@UUID[Item.tW2Y7WNeWkWVpqQ7]{Disguise Self}'
+      weight: 192
+    - value: '@UUID[Item.isF77Po10qYG8AvU]{Dissonant Whispers}'
+      weight: 192
+    - value: '@UUID[Item.dxRabccraEnbE2Ys]{Distort Value}'
+      weight: 192
+    - value: '@UUID[Item.qzPbTtlLClzjyVWP]{Divine Favor}'
+      weight: 192
+    - value: '@UUID[Item.QQiknJeSFl4nTUpH]{Earth Tremor}'
+      weight: 192
+    - value: '@UUID[Item.3WWjGn6w8DGSGpX4]{Ensnaring Strike}'
+      weight: 192
+    - value: '@UUID[Item.xGC24lDTWvoAZXsG]{Entangle}'
+      weight: 192
+    - value: '@UUID[Item.gLQbPjSIl3ZmBHvu]{Expeditious Retreat}'
+      weight: 192
+    - value: '@UUID[Item.ze2gCSyl1AgtGQUg]{Faerie Fire}'
+      weight: 192
+    - value: '@UUID[Item.NOWUZDXc8NEyx5PC]{False Life}'
+      weight: 192
+    - value: '@UUID[Item.LvJFjqMUq0xQp3HW]{Feather Fall}'
+      weight: 192
+    - value: '@UUID[Item.up54baNpU7FxUK36]{Find Familiar}'
+      weight: 192
+    - value: '@UUID[Item.IaA93ytNzFBf7v0U]{Fog Cloud}'
+      weight: 192
+    - value: '@UUID[Item.VuarbXFQve2hXbKR]{Frost Fingers}'
+      weight: 192
+    - value: '@UUID[Item.Xj9HNb2YZd3wxgSY]{Gift of Alacrity}'
+      weight: 192
+    - value: '@UUID[Item.ep6dvvFKB7SHuVDS]{Goodberry}'
+      weight: 192
+    - value: '@UUID[Item.0sWAWLbhNILc5DCL]{Grease}'
+      weight: 192
+    - value: '@UUID[Item.qD115ZTD1tlArTlT]{Guiding Bolt}'
+      weight: 192
+    - value: '@UUID[Item.Xe5IFLKHH6NEBY3Q]{Hail of Thorns}'
+      weight: 192
+    - value: '@UUID[Item.U4fUEbRpapMobW8I]{Healing Word}'
+      weight: 192
+    - value: '@UUID[Item.x7tOCIEF4qpNS2ej]{Hellish Rebuke}'
+      weight: 192
+    - value: '@UUID[Item.sXbJaLw42oggtm9F]{Heroism}'
+      weight: 192
+    - value: '@UUID[Item.o81ZkXDZViqHe0qh]{Hex}'
+      weight: 192
+    - value: '@UUID[Item.CGVXRSTaO5xJjgpg]{Hunter''s Mark}'
+      weight: 192
+    - value: '@UUID[Item.SSlhhMg9wALdninn]{Ice Knife}'
+      weight: 192
+    - value: '@UUID[Item.qvUEVICx5hkrzuyl]{Identify}'
+      weight: 192
+    - value: '@UUID[Item.6ETqPDfXKnVYySxu]{Illusory Script}'
+      weight: 192
+    - value: '@UUID[Item.tXkQhCfR8hmc49w9]{Inflict Wounds}'
+      weight: 192
+    - value: '@UUID[Item.PNc3VMe98lbSSQxD]{Jim''s Magic Missile}'
+      weight: 192
+    - value: '@UUID[Item.LtYQqbgBkXKLbqSb]{Jump}'
+      weight: 192
+    - value: '@UUID[Item.BCzC2bwfzU4NOs1T]{Longstrider}'
+      weight: 192
+    - value: '@UUID[Item.lYZGqPoV0GGTPTns]{Mage Armor}'
+      weight: 192
+    - value: '@UUID[Item.AHhGzlBXDZDt4SCL]{Magic Missile}'
+      weight: 192
+    - value: '@UUID[Item.TXIuBlwK6ciJCEYZ]{Magnify Gravity}'
+      weight: 192
+    - value: '@UUID[Item.oUj3u5nDi6PPeJZI]{Protection from Evil and Good}'
+      weight: 192
+    - value: '@UUID[Item.H7IYvvQ6MNhZQzDu]{Purify Food and Drink}'
+      weight: 192
+    - value: '@UUID[Item.rJD19nSDGwcRTKWK]{Ray of Sickness}'
+      weight: 192
+    - value: '@UUID[Item.3qSLwhA8CNXqXgZd]{Sanctuary}'
+      weight: 192
+    - value: '@UUID[Item.zut0XA4qJCE5Y1Id]{Searing Smite}'
+      weight: 192
+    - value: '@UUID[Item.o8NO5xsRyewIZDEp]{Shield}'
+      weight: 192
+    - value: '@UUID[Item.ZdOORIervqPy2HIJ]{Shield of Faith}'
+      weight: 192
+    - value: '@UUID[Item.MeqlEJQNpIPnXTd3]{Silent Image}'
+      weight: 192
+    - value: '@UUID[Item.tzr4y83fWvPlWR8J]{Silvery Barbs}'
+      weight: 192
+    - value: '@UUID[Item.ydkJp02V2CebOPVE]{Sleep}'
+      weight: 192
+    - value: '@UUID[Item.m1lBvGe4qkjTLPin]{Snare}'
+      weight: 192
+    - value: '@UUID[Item.X3py5GagbRKTE3wL]{Speak with Animals}'
+      weight: 192
+    - value: '@UUID[Item.ScHWBjvKmAvTzEKg]{Tasha''s Caustic Brew}'
+      weight: 192
+    - value: '@UUID[Item.P53LbcNI3BXz1x8n]{Tasha''s Hideous Laughter}'
+      weight: 192
+    - value: '@UUID[Item.fnA8TP7qonHnHu5B]{Tenser''s Floating Disk}'
+      weight: 192
+    - value: '@UUID[Item.Yk5ZnFmVEmvfEZcC]{Thunderous Smite}'
+      weight: 192
+    - value: '@UUID[Item.1EuSxlK2EpMXQfFv]{Thunderwave}'
+      weight: 192
+    - value: '@UUID[Item.PaA4GSX3boy38gzd]{Unseen Servant}'
+      weight: 192
+    - value: '@UUID[Item.143zHwtYh9qTv4l7]{Wrathful Smite}'
+      weight: 192
+    - value: '@UUID[Item.Vmo9UdLxY4kLuIEo]{Zephyr Strike}'
+      weight: 192
+    - value: '@UUID[Item.c9mzWsMxIMGXNfNm]{Aegis of Honor}'
+      weight: 192
+    - value: '@UUID[Item.JwEXWiV6sIGeX26p]{Ambusher’s Regret}'
+      weight: 192
+    - value: '@UUID[Item.yjd28aM032tmOjmA]{Amplify Sound}'
+      weight: 192
+    - value: '@UUID[Item.LPAxD7mbNaIi1Cqh]{Anneal}'
+      weight: 192
+    - value: '@UUID[Item.cfoFMLhnTQF3hGew]{Azalea Skin}'
+      weight: 192
+    - value: '@UUID[Item.MkD8MS2e9UcOqcH8]{Black Ribbons}'
+      weight: 192
+    - value: '@UUID[Item.IOlK3sMJ6VXdpX1N]{Blade of Blood and Bone}'
+      weight: 192
+    - value: '@UUID[Item.nBkhilOGMhtk2P3b]{Brimstone}'
+      weight: 192
+    - value: '@UUID[Item.HemF2asa7QPQRtAO]{Broken Charge}'
+      weight: 192
+    - value: '@UUID[Item.MJskWg74ZxOL7TFa]{Charm of Long Standing}'
+      weight: 192
+    - value: '@UUID[Item.3EvO49dbMvMI8oX6]{Cloak of Shadow}'
+      weight: 192
+    - value: '@UUID[Item.NvOWjEOhxQK9eR8s]{Compel Mercy}'
+      weight: 192
+    - value: '@UUID[Item.NfND6k1x6DQpMH1V]{Concentration Smash}'
+      weight: 192
+    - value: '@UUID[Item.e6BeuB9fQixSABpm]{Concussive Punch}'
+      weight: 192
+    - value: '@UUID[Item.7gRCta5qa07UvqNf]{Conjure Rats}'
+      weight: 192
+    - value: '@UUID[Item.u6uT2U9BMGbF0lWO]{Curse of Sustentation}'
+      weight: 192
+    - value: '@UUID[Item.8IIthBy2nA24DouL]{Dance of the Fey}'
+      weight: 192
+    - value: '@UUID[Item.Um7zK6NJdteTXFyn]{Dehydration}'
+      weight: 192
+    - value: '@UUID[Item.vnRwsAONQ0oZ9T8P]{Detect Shapechanger}'
+      weight: 192
+    - value: '@UUID[Item.lWBzDissao2NYwx1]{Doom of Fools}'
+      weight: 192
+    - value: '@UUID[Item.V970mO23Yk9LfADQ]{Doom of Poor Fortune}'
+      weight: 192
+    - value: '@UUID[Item.NIptyvemHSrNGmw6]{Doom of the Cracked Shield}'
+      weight: 192
+    - value: '@UUID[Item.rMSxCoRhfG61NZuh]{El’tharyn’s Evanishing Exchange}'
+      weight: 192
+    - value: '@UUID[Item.dyhzdPbUYailRIRl]{Elemental Infusion}'
+      weight: 192
+    - value: '@UUID[Item.AyI1WZn3MFemBfHa]{Elf Shot}'
+      weight: 192
+    - value: '@UUID[Item.uyMik4hvklqB3svq]{Emotional Gamut}'
+      weight: 192
+    - value: '@UUID[Item.IaMQ4E5AFxz3BiAt]{Expel Heresy}'
+      weight: 192
+    - value: '@UUID[Item.KkyLHSRbtJcVMMM4]{Extract Essence}'
+      weight: 192
+    - value: '@UUID[Item.HBwxpm5KdCy35MCf]{Fist from Hell}'
+      weight: 192
+    - value: '@UUID[Item.35CgeOtUkv4UbOXU]{Flamestep}'
+      weight: 192
+    - value: '@UUID[Item.MdqeCosSEPAtOJkK]{Florafetter}'
+      weight: 192
+    - value: '@UUID[Item.lidn0z5ARAk9wgbn]{Forgettable}'
+      weight: 192
+    - value: '@UUID[Item.dGc5aWGXtxmseU6W]{Frightful Shout}'
+      weight: 192
+    - value: '@UUID[Item.04pETd03BM7ZS6TY]{Gloaming}'
+      weight: 192
+    - value: '@UUID[Item.XsGIRdcBv8GsnQMx]{Grim Siphon}'
+      weight: 192
+    - value: '@UUID[Item.Izni5UMkURgIAYLc]{Grit in the Eye}'
+      weight: 192
+    - value: '@UUID[Item.zg1zD11hmtbHno6R]{Guest of Honor}'
+      weight: 192
+    - value: '@UUID[Item.NYLxWPaFWs21MnSs]{Hemmen’s Low Blow}'
+      weight: 192
+    - value: '@UUID[Item.gLQN0v0JYBixW4NE]{Infernal Rebound}'
+      weight: 192
+    - value: '@UUID[Item.5liEl48L1MokuuUp]{Jedza’s Tidy Charm}'
+      weight: 192
+    - value: '@UUID[Item.JVjXwelhdjbZEHIe]{Last Strike}'
+      weight: 192
+    - value: '@UUID[Item.sRlNsvrkPUWz3Iiz]{Leaden Wings}'
+      weight: 192
+    - value: '@UUID[Item.ACrTJ5hKs6IO70CL]{Lesser Charm}'
+      weight: 192
+    - value: '@UUID[Item.4nnTCmpa5kRAnIZT]{Lunarbolt Waxing}'
+      weight: 192
+    - value: '@UUID[Item.qmUIQvBDN5DakZuL]{Magnetic Bolt}'
+      weight: 192
+    - value: '@UUID[Item.figAhFL5rfOt06ua]{Malaise}'
+      weight: 192
+    - value: '@UUID[Item.PWKIrTwCjQzlk7qt]{Nothing to See Here}'
+      weight: 192
+    - value: '@UUID[Item.COFJgvjnk45KD6Dk]{Oneiromancy}'
+      weight: 192
+    - value: '@UUID[Item.j5cEjVvAhPAsfygf]{Plague Doctor’s Call}'
+      weight: 192
+    - value: '@UUID[Item.5CYaWjiB6YKo24BF]{Pratfall}'
+      weight: 192
+    - value: '@UUID[Item.8yrwq974ZVUiG5GJ]{Proselytize}'
+      weight: 192
+    - value: '@UUID[Item.ymRIZ3iZTWdhQO5l]{Reassemble Bones}'
+      weight: 192
+    - value: '@UUID[Item.bTVfO0Pa2Nuo0TCH]{Shadow Armor}'
+      weight: 192
+    - value: '@UUID[Item.GZsox0m9T3aG5B3K]{Shadow Hands}'
+      weight: 192
+    - value: '@UUID[Item.GNsMV7r3tpkQChgN]{Shapechanger-Bane Weapon}'
+      weight: 192
+    - value: '@UUID[Item.nY2CsFmi2YaEjbMZ]{Skip Strike}'
+      weight: 192
+    - value: '@UUID[Item.ktrkoLbHUJMRvNHS]{Spectral Perfume}'
+      weight: 192
+    - value: '@UUID[Item.i3f524bx6cal83pN]{Spray}'
+      weight: 192
+    - value: '@UUID[Item.v8SL8dVYLhXJWEBY]{Steady}'
+      weight: 192
+    - value: '@UUID[Item.roL1DsM8FgM8J4qR]{Tongue Pick}'
+      weight: 192
+    - value: '@UUID[Item.rGTwvS5JAI0xYWW9]{Uniting Sigil}'
+      weight: 192
+    - value: '@UUID[Item.3eq8Xy9oP1OBS0ri]{Unnerving Yowl}'
+      weight: 192
+    - value: '@UUID[Item.BA6TsFDkjxHHouN8]{Varina’s Virtuous Valediction}'
+      weight: 192
+    - value: '@UUID[Item.NBUx9jylshv5GSSA]{Whipcrack}'
+      weight: 192
+    - value: '@UUID[Item.VWMfcJQwgS4shpNT]{Withering Smite}'
+      weight: 192
+    - value: '@UUID[Item.GozHHPJLGDpY9GWB]{Zip}'
+      weight: 192
+    - value: '@UUID[Item.GaC2lSie6klenrLG]{Acid Splash}'
+      weight: 256
+    - value: '@UUID[Item.8YgmHUccHaxpoUL0]{Blade Ward}'
+      weight: 256
+    - value: '@UUID[Item.kh3kaxnnPqBCD6SW]{Booming Blade}'
+      weight: 256
+    - value: '@UUID[Item.CfD301UXF2iR5Uz0]{Chill Touch}'
+      weight: 256
+    - value: '@UUID[Item.GN5gh1gNb5O6UBcd]{Control Flames}'
+      weight: 256
+    - value: '@UUID[Item.vutRgdBDpMIGcBPZ]{Create Bonfire}'
+      weight: 256
+    - value: '@UUID[Item.GJEWxd6m227UA3bV]{Dancing Lights}'
+      weight: 256
+    - value: '@UUID[Item.yxtTrMt4Xa8iryFL]{Druidcraft}'
+      weight: 256
+    - value: '@UUID[Item.zseF7nEhnDRaxw4p]{Eldritch Blast}'
+      weight: 256
+    - value: '@UUID[Item.HFBxUQ3kcEf4Xc6K]{Encode Thoughts}'
+      weight: 256
+    - value: '@UUID[Item.I3LzT1pKuJdiLvjM]{Fire Bolt}'
+      weight: 256
+    - value: '@UUID[Item.Waw20dIBxcwZi1pV]{Friends}'
+      weight: 256
+    - value: '@UUID[Item.FW40HFLh6e0gh9PG]{Frostbite}'
+      weight: 256
+    - value: '@UUID[Item.N0YxaSHdS0zJgb0O]{Green-Flame Blade}'
+      weight: 256
+    - value: '@UUID[Item.2Bbk2KHGnlclqj7D]{Guidance}'
+      weight: 256
+    - value: '@UUID[Item.qMCjpHpUaGiTxUOT]{Gust}'
+      weight: 256
+    - value: '@UUID[Item.W992vflR0yd1ePF0]{Infestation}'
+      weight: 256
+    - value: '@UUID[Item.vPItoskSJtheuzkJ]{Light}'
+      weight: 256
+    - value: '@UUID[Item.HTS1Dl8nlAIXMBHJ]{Lightning Lure}'
+      weight: 256
+    - value: '@UUID[Item.JcW5Owya3THfkYEi]{Mage Hand}'
+      weight: 256
+    - value: '@UUID[Item.LAoT7FbkY58Z9tG3]{Magic Stone}'
+      weight: 256
+    - value: '@UUID[Item.aKnc50lMIsyangqp]{Mending}'
+      weight: 256
+    - value: '@UUID[Item.jEnhQybto4v539RP]{Message}'
+      weight: 256
+    - value: '@UUID[Item.eLGOtXEL7qX2ztHW]{Mind Sliver}'
+      weight: 256
+    - value: '@UUID[Item.udDCKff2WRbYVS1U]{Minor Illusion}'
+      weight: 256
+    - value: '@UUID[Item.TtVJZRAiYvglslJp]{Mold Earth}'
+      weight: 256
+    - value: '@UUID[Item.aWF8AM9QNMY2QcKD]{Poison Spray}'
+      weight: 256
+    - value: '@UUID[Item.hYQ3o11xWQKIDtxM]{Prestidigitation}'
+      weight: 256
+    - value: '@UUID[Item.tiFDspn2j8LLwHK6]{Primal Savagery}'
+      weight: 256
+    - value: '@UUID[Item.yG3WAjCHAnyM21sk]{Produce Flame}'
+      weight: 256
+    - value: '@UUID[Item.rhZF8C0oqF9vQkkp]{Ray of Frost}'
+      weight: 256
+    - value: '@UUID[Item.z8IvVZ16dWxJZrzm]{Resistance}'
+      weight: 256
+    - value: '@UUID[Item.quhCA7Mv65flqHSm]{Sacred Flame}'
+      weight: 256
+    - value: '@UUID[Item.MAPQOA7DVuxCsZq0]{Sapping Sting}'
+      weight: 256
+    - value: '@UUID[Item.921GrLeBA1uAtYNp]{Shape Water}'
+      weight: 256
+    - value: '@UUID[Item.TTv8XCNZAdnz022z]{Shillelagh}'
+      weight: 256
+    - value: '@UUID[Item.Ns3zHW9mgtt3b3N3]{Shocking Grasp}'
+      weight: 256
+    - value: '@UUID[Item.DEYNOS5NraNAqRni]{Spare the Dying}'
+      weight: 256
+    - value: '@UUID[Item.TdWERJIEmrJFmYh1]{Sword Burst}'
+      weight: 256
+    - value: '@UUID[Item.8hL6oOgaJ8lgYzLB]{Thaumaturgy}'
+      weight: 256
+    - value: '@UUID[Item.gV6xVqIe3E9SfFjD]{Thorn Whip}'
+      weight: 256
+    - value: '@UUID[Item.KmeHRNKqaW2nr3yE]{Thunderclap}'
+      weight: 256
+    - value: '@UUID[Item.2Y3JxlpjTfGSUnRk]{Toll the Dead}'
+      weight: 256
+    - value: '@UUID[Item.jsA861fzOxKlBVNz]{True Strike}'
+      weight: 256
+    - value: '@UUID[Item.lqbJhgTaXyVKhCga]{Vicious Mockery}'
+      weight: 256
+    - value: '@UUID[Item.753mx5W3RWn7GrPS]{Word of Radiance}'
+      weight: 256
+    - value: '@UUID[Item.43tEHgTcY3lIxLLW]{Abhorrence}'
+      weight: 256
+    - value: '@UUID[Item.woCSpfOIVkc9u34D]{Acumen}'
+      weight: 256
+    - value: '@UUID[Item.WVKPwjOqRpRsqtw8]{Ale-dritch Blast}'
+      weight: 256
+    - value: '@UUID[Item.WfhPcwyQZBSHyMYF]{Allure}'
+      weight: 256
+    - value: '@UUID[Item.oGEGl2x6l9KoiFxf]{Animated Scroll}'
+      weight: 256
+    - value: '@UUID[Item.Ak9naDwkGCFgzGzD]{Benediction}'
+      weight: 256
+    - value: '@UUID[Item.dM5atAXT7Sbixo0D]{Bewilderment}'
+      weight: 256
+    - value: '@UUID[Item.wwOGpKtpQz2mrrZa]{Biting Arrow}'
+      weight: 256
+    - value: '@UUID[Item.JN1WcapOOvsUyYeS]{Black Goat''s Blessing}'
+      weight: 256
+    - value: '@UUID[Item.VJynwBFjnwsMYYhr]{Bless the Dead}'
+      weight: 256
+    - value: '@UUID[Item.nODTiw6RdutvRLEU]{Blood Tide}'
+      weight: 256
+    - value: '@UUID[Item.C0AvcBulZBcynqUK]{Brawn Boost}'
+      weight: 256
+    - value: '@UUID[Item.uV7ZprkrbbtLUokS]{Bright Sparks}'
+      weight: 256
+    - value: '@UUID[Item.QHd5FYSnld7LiCQq]{Brimstone Infusion}'
+      weight: 256
+    - value: '@UUID[Item.ivLkq2o0pd0FcuUL]{Caustic Touch}'
+      weight: 256
+    - value: '@UUID[Item.3BorSC6kjZkf0UBj]{Clockwork Bolt}'
+      weight: 256
+    - value: '@UUID[Item.8zYUQ82I2n9dKXhk]{Clumsiness}'
+      weight: 256
+    - value: '@UUID[Item.aauHJ9BpYazksW3u]{Dark Maw}'
+      weight: 256
+    - value: '@UUID[Item.WjfGEtOKe6xdMsDE]{Decay}'
+      weight: 256
+    - value: '@UUID[Item.TELfoAN4IwEJvcE4]{Dragon Roar}'
+      weight: 256
+    - value: '@UUID[Item.uYjAZiMqcMVC7B4O]{Encrypt / Decrypt}'
+      weight: 256
+    - value: '@UUID[Item.EwG6OmIWmDoloK9W]{Enumerate}'
+      weight: 256
+    - value: '@UUID[Item.QxkkqiBgtIbyLGQJ]{Exceptional Wit}'
+      weight: 256
+    - value: '@UUID[Item.3O6ZRfJ85alCXo8m]{Fist of Iron}'
+      weight: 256
+    - value: '@UUID[Item.YRrcVFniTTZYKcrJ]{Fortitude}'
+      weight: 256
+    - value: '@UUID[Item.PLqwOV5EYZOmGvTG]{Frailty}'
+      weight: 256
+    - value: '@UUID[Item.M12vDQl8CRsBt8hp]{Hamstring}'
+      weight: 256
+    - value: '@UUID[Item.tDbGjfIa4rfSF55Q]{Hoarfrost}'
+      weight: 256
+    - value: '@UUID[Item.tl64M2iCwjcDQ75D]{Hobble}'
+      weight: 256
+    - value: '@UUID[Item.0OfG1DbdmV0W4rQr]{Impotence}'
+      weight: 256
+    - value: '@UUID[Item.h5mivAsRJtNtVQOT]{Iron Hand}'
+      weight: 256
+    - value: '@UUID[Item.qBrqKxxPFCRUnrUc]{Luminous Bolt}'
+      weight: 256
+    - value: '@UUID[Item.lmHn77R546MdijJI]{Nimbleness}'
+      weight: 256
+    - value: '@UUID[Item.uMx71jSPRoy6RIeC]{Obtuse}'
+      weight: 256
+    - value: '@UUID[Item.1GqQ3TWrP8ddGvIg]{Puff of Smoke}'
+      weight: 256
+    - value: '@UUID[Item.7iKi80ZpxGWL3Uh6]{Pummelstone}'
+      weight: 256
+    - value: '@UUID[Item.wM2qr1Zr6OPlwoSy]{Quicken}'
+      weight: 256
+    - value: '@UUID[Item.hG1YzACoqOZ4XIlo]{Scribe}'
+      weight: 256
+    - value: '@UUID[Item.chdNJ7F3EVG4sp1f]{Semblance of Dread}'
+      weight: 256
+    - value: '@UUID[Item.lqHxk6JUHULHBqNe]{Shiver}'
+      weight: 256
+    - value: '@UUID[Item.HcwICROLXxW1yMI6]{Starburst}'
+      weight: 256
+    - value: '@UUID[Item.EXnKj0YYLISjCvfQ]{Telekinetic Trip}'
+      weight: 256
+    - value: '@UUID[Item.YvcogBPj31aDUkEy]{Thunder Bolt}'
+      weight: 256
+    - value: '@UUID[Item.1lXR1uD2Wys1qnNZ]{Tree Heal}'
+      weight: 256
+    - value: '@UUID[Item.88ygWWvgxcQj4v2t]{Uncanny Avoidance}'
+      weight: 256
+    - value: '@UUID[Item.hAJuoqnhmM2VQycD]{Wind Lash}'
+      weight: 256
+    - value: '@UUID[Item.00sFkE1K1VQ9xyJt]{Arcane Sparkler}'
+      weight: 256
+    - value: '@UUID[Item.Mnax4DweAJ5vYPME]{Biting Armor}'
+      weight: 256
+    - value: '@UUID[Item.Mnax4DweAJ5vYPME]{Biting Armor}'
+      weight: 256
+    - value: '@UUID[Item.ULwXSRjWDvm0AZMH]{Blood Purge}'
+      weight: 256
+    - value: '@UUID[Item.Ztu9hfAYsaXCOA2O]{Cecily’s Stormshot}'
+      weight: 256
+    - value: '@UUID[Item.yLi04SikT9OYFCVF]{Claw Guard}'
+      weight: 256
+    - value: '@UUID[Item.0JaBcNYj4JErmVt5]{Claws of Darkness}'
+      weight: 256
+    - value: '@UUID[Item.C7FZyhifR5FccRAp]{Conjure Thicket}'
+      weight: 256
+    - value: '@UUID[Item.b2RasEndK4Wmb7ls]{Deflection}'
+      weight: 256
+    - value: '@UUID[Item.7aViydeFaqJM5kwK]{Douse Light}'
+      weight: 256
+    - value: '@UUID[Item.3EYK4zU9bnlsk44u]{Drayfn’s Bane of Excellence}'
+      weight: 256
+    - value: '@UUID[Item.t2IIO7M0REv36eY0]{Dream Glimpse}'
+      weight: 256
+    - value: '@UUID[Item.ekZDvLaRUsjWlljN]{Drizzle}'
+      weight: 256
+    - value: '@UUID[Item.5V0etctLryGhxZEx]{Een’s Molten Shard}'
+      weight: 256
+    - value: '@UUID[Item.hLZ8fF47kaEdyx9u]{Effervesce Sense}'
+      weight: 256
+    - value: '@UUID[Item.vzHrKgyq10DhVJK9]{Flame’s Kiss}'
+      weight: 256
+    - value: '@UUID[Item.bCFyHbco0Fy6YYHx]{Flowering}'
+      weight: 256
+    - value: '@UUID[Item.fM6MvG9YnIPPQovw]{Gnaw}'
+      weight: 256
+    - value: '@UUID[Item.zNkLYLdtjn7exjsR]{Hand of Doom}'
+      weight: 256
+    - value: '@UUID[Item.Bbb8Zt7isBvrSfSP]{Illusion of Health}'
+      weight: 256
+    - value: '@UUID[Item.AIKGH6NfJs4oiPxJ]{Memento Mori}'
+      weight: 256
+    - value: '@UUID[Item.HDPWWBTOmNXN7PJr]{Misstep}'
+      weight: 256
+    - value: '@UUID[Item.W1X1fAykluW4Jww8]{Obfuscate Object}'
+      weight: 256
+    - value: '@UUID[Item.ttUj5WWjau4tRhPp]{Panacea}'
+      weight: 256
+    - value: '@UUID[Item.Wyb9VNcQs1Y6LZBo]{Plague Marks}'
+      weight: 256
+    - value: '@UUID[Item.HjKZuL1Zn9LHr1lc]{Pocketful of Posies}'
+      weight: 256
+    - value: '@UUID[Item.JDOv3SnPmShQ16oG]{Rime}'
+      weight: 256
+    - value: '@UUID[Item.tTR98cZK3lpbzjyv]{Shackle}'
+      weight: 256
+    - value: '@UUID[Item.lrztGjwF0S5ijM8P]{Shadow Bite}'
+      weight: 256
+    - value: '@UUID[Item.2iHv4x2tVu1JvJ8x]{Shadow Blindness}'
+      weight: 256
+    - value: '@UUID[Item.60ZwylM7qgffaHqt]{Silhouette}'
+      weight: 256
+    - value: '@UUID[Item.UEqhafwqqiCznmNk]{Slime Guard}'
+      weight: 256
+    - value: '@UUID[Item.OR7azQ1B5NBFVoZb]{Smolder}'
+      weight: 256
+    - value: '@UUID[Item.RGP5mlGW3cPgJSLw]{Spray of Glass}'
+      weight: 256
+    - value: '@UUID[Item.ti86bhDI8lbXmZOk]{Spy}'
+      weight: 256
+    - value: '@UUID[Item.qJh5CHhFVuJ7wxfy]{Storm Mote}'
+      weight: 256
+    - value: '@UUID[Item.TAcCilXDU3Dh6hmD]{Strip Wood}'
+      weight: 256
+    - value: '@UUID[Item.RMJP3NMnxQKLgj5n]{Swing and a Missile}'
+      weight: 256
+    - value: '@UUID[Item.NqgBJQwc166NMJUw]{Weight Spike}'
+      weight: 256
+    - value: '@UUID[Item.hrdyVFulZy9BirBq]{Wilting Breath}'
+      weight: 256
+    - value: '@UUID[Item.Mdq9G8glau5qKWzI]{Word of Unmaking}'
+      weight: 256

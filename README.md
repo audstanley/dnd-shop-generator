@@ -1,13 +1,21 @@
 # dnd-shop-generator
 A golang application that will use weights to generate a list of foundryvtt items
 
+### Prep
+install golang
+```bash
+# build the binary from within the project folder
+go build .
+```
+
+
 ### Step 1
 copy uuids from a foundry journal into a text file.
 
 ### Step 2
 
 ```bash
-go run main.go --toyaml=food.txt
+./dnd-shop-generator --toyaml=food.txt
 ```
 
 ### Step 3
@@ -19,7 +27,7 @@ copy/paste contents from generated_output_items_from_textfile.yaml to a food.yam
 ### Step 4
 
 ```bash
-go run main.go --yaml=food.yaml --num=30
+./dnd-shop-generator --yaml=food.yaml --num=30
 ```
 
 output to put into a foundry journal:
